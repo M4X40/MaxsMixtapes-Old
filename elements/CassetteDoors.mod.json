@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Dawn of the Doors",
+    "texture": "doors_tape",
+    "description": "LSplash - Dawn of the Doors",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "This is just the beginning."
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:dawn_of_the_doors"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

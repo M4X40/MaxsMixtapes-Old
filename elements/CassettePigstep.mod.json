@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Pigstep",
+    "texture": "pigsteptroll",
+    "description": "LordWhiteWolf - Pigstep",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Interior Crocodile Aligator\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:pigstep_troll"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

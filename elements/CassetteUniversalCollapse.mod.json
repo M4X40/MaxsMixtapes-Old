@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Universal Collapse",
+    "texture": "universal_collapse_tape",
+    "description": "DM DOKURO - Universal Collapse",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"It's not over yet!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:universal_collapse"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

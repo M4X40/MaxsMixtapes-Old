@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Bottom Of The Pit",
+    "texture": "allen_tape",
+    "description": "The Living Tombstone - Bottom Of The Pit",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Flawed but fixable...\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:bottom_of_the_pit"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

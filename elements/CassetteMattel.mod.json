@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Mattel",
+    "texture": "mattel",
+    "description": "Avenged Sevenfold - Mattel",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "Advertisement, moral scrawl, a semblance of choice when there's no choice at all!"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:mattel"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

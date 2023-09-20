@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Rasputin",
+    "texture": "viktor_vasko",
+    "description": "Boney M - Rasputin",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Chad vas... Bad\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:rasputin"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

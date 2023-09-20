@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "maxs_mixtapes:cassette_stolas"
+    },
+    "title": {
+      "translate": "advancements.adv_yt.title"
+    },
+    "description": {
+      "translate": "advancements.adv_yt.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_yt": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "maxs_mixtapes:entities/ltanimated"
+    ]
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Ocarina of Time: Title",
+    "texture": "deku_shield",
+    "description": "Nintendo - Title Theme for Ocarina of Time",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"A thing that does not change with time is a memory of younger days...\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:oot"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

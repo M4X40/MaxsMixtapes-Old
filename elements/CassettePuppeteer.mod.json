@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Puppet/eer",
+    "texture": "puppeteer",
+    "description": "dionysu5 - Puppet/eer",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Now dont be a fool go break all the rules!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:puppeteer"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

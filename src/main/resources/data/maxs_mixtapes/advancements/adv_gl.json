@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "adv_gl": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "maxs_mixtapes:cassette_guiding_light"
+            ],
+            "count": {
+              "min": 1,
+              "max": 25000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

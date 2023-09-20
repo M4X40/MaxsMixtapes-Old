@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Nightmare",
+    "texture": "nightmare",
+    "description": "Avenged Sevenfold - Nightmare",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "R.I.P - The Rev,world's best drummer."
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:nightmare"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

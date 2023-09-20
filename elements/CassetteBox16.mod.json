@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Box 16",
+    "texture": "box_16",
+    "description": "Masifumi Takada - BOX 16",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Mukuro Ikusaba, the 16th Student, lying hidden somewhere in this school…\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:box16"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

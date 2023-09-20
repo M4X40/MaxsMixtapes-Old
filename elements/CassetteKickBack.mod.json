@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "KICK BACK",
+    "texture": "pochita",
+    "description": "Kenshi Yonezu - KICK BACK",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"If dreams do come true, I wanna hug a girl before I die\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:kick_back"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "God Race",
+    "texture": "reg_ena",
+    "description": "METAROOM - God Race",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"I CAN'T GO ONNNN!!! I WON'T ACHIEVE ANYTHINGGGGG!!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:gr"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

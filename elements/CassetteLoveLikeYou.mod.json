@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Love Like You",
+    "texture": "love_like_you",
+    "description": "Rebecca Sugar - Love Like You",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Let’s only think about love!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:love_like_you"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

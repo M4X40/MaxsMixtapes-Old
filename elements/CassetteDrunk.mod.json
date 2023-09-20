@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Drunk",
+    "texture": "drunk",
+    "description": "The Living Tombstone - Drunk",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Where's my keys?\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:drunk"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "maxs_mixtapes",
+  "version": "1.0.0",
+  "name": "Max's Mixtapes",
+  "authors": [
+    "M4X4, Thuman_Okami"
+  ],
+  "contact": {
+    "homepage": "https://docs.google.com/spreadsheets/d/1texCzxWcq9b-0pDh96H6NXJGqoodTBlrPh27j9WYKPY/",
+    "sources": ""
+  },
+  "license": "Academic Free License v3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "m4x4.mixtapes.MaxsMixtapesMod"
+    ],
+    "client": [
+      "m4x4.mixtapes.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "mixins": [
+    "maxs_mixtapes.mixins.json"
+  ]
+}

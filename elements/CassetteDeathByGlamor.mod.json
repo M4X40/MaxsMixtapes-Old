@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Death By Glamour",
+    "texture": "mettaton",
+    "description": "Toby Fox - Death By Glamour",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"THAT'S SHOW BUSINESS, BABY!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:death_by_glamor"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

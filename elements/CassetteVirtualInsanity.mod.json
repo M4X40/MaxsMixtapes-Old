@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Virtual Insanity",
+    "texture": "virtual_insanity",
+    "description": "Jamiroquai - Virtual Insanity",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Dancing, Walking, Rearranging Furniture.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:virtual_insanity"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "BattleBlock Theater",
+    "texture": "battleblocktheater",
+    "description": "Patric Catani - BattleBlock Theater",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"REALLY? WHAT TIPPED YOU OFF GENIUS?\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:bbt"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

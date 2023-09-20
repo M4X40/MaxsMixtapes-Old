@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "HERE I COME 2 (Phonk Ver.)",
+    "texture": "you_cant_run",
+    "description": "-Prey & ANTIQUE - HERE I COME 2",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "You can't run, nor can you hide..."
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:here_i_come_2"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

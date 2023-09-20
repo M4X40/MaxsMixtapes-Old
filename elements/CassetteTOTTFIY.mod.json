@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "The Only Thing They Fear Is You",
+    "texture": "doomslayer",
+    "description": "Mick Gordon - The Only Thing They Fear Is You",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Rip and...\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:tottfiy"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

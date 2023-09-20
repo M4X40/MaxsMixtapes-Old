@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Rejuvenescencia",
+    "texture": "lucio_healing",
+    "description": "Lúcio - Rejuvenescência",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"This is gonna make you feel better.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:rejuv"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

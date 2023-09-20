@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "You Can Always Come Home",
+    "texture": "toriel",
+    "description": "Toby Fox - You Can Always Come Home",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"I am Toriel, caretaker of the Ruins...\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:ycach"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

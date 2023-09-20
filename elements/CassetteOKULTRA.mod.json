@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "OKULTRA",
+    "texture": "love_me_normally_tape",
+    "description": "Will Wood - OKULTRA",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"For what? For what?\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:okultra"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

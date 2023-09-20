@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Cassette Tomcat",
+    "texture": "tomcat_tape",
+    "description": "Will Wood - Tomcat Disposables",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Nature i guess..\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:tomcat_disposables"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

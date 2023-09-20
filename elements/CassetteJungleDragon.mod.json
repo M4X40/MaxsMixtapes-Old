@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Roar of the Jungle Dragon",
+    "texture": "jungle_dragon",
+    "description": "DM DOKURO - Roar of the Jungle Dragon",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"The air is getting warmer around you.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:rotjd"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Simoon",
+    "texture": "stairway_ena",
+    "description": "YMO - Simoon",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"CHEESE AND RICE MOONY.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:simoon"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Alpha",
+    "texture": "alpha",
+    "description": "C418 - Alpha",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Minecraft grew up with you.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:alpha"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

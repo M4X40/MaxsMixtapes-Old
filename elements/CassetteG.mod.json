@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "G",
+    "texture": "g",
+    "description": "Avenged Sevenfold - G",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "Ahh fuck, give me a delete button..... Delete!"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:g"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "maxs_mixtapes:handsome_devil"
+    },
+    "title": {
+      "translate": "advancements.adv_rome.title"
+    },
+    "description": {
+      "translate": "advancements.adv_rome.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "adv_rome": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "maxs_mixtapes:entities/ltrome"
+    ]
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

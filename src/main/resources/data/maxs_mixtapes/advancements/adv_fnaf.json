@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "maxs_mixtapes:cassette_fnaf_1"
+    },
+    "title": {
+      "translate": "advancements.adv_fnaf.title"
+    },
+    "description": {
+      "translate": "advancements.adv_fnaf.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_fnaf": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "maxs_mixtapes:entities/ltfnaf"
+    ]
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

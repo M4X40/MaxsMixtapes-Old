@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Stronger",
+    "texture": "stronger",
+    "description": "Kanye West - Stronger",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"As a man I am flawed, but my music is perfect\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:stronger"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

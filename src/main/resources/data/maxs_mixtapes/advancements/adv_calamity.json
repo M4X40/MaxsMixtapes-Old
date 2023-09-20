@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "maxs_mixtapes:cassette_slime_god"
+    },
+    "title": {
+      "translate": "advancements.adv_calamity.title"
+    },
+    "description": {
+      "translate": "advancements.adv_calamity.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_calamity": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

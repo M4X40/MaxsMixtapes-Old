@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Big Poppa",
+    "texture": "big_poppa",
+    "description": "The Notorious B.I.G - Big Poppa",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "R.I.P The GOAT of Hip-Hop"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:big_poppa"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 15
+  }
+}

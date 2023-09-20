@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "BOW",
+    "texture": "kitsune",
+    "description": "MFS - BOW",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Let the Kitsune guide you.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:bow"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

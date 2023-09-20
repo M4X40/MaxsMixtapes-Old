@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "maxs_mixtapes:blank_tape"
+    },
+    "title": {
+      "translate": "advancements.adv_init.title"
+    },
+    "description": {
+      "translate": "advancements.adv_init.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_init": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "maxs_mixtapes:blank_tape"
+            ],
+            "count": {
+              "min": 1,
+              "max": 25000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "maxs_mixtapes:adv_mm"
+}

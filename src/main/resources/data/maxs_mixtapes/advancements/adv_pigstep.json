@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "maxs_mixtapes:cassette_pigstep_jazz"
+    },
+    "title": {
+      "translate": "advancements.adv_pigstep.title"
+    },
+    "description": {
+      "translate": "advancements.adv_pigstep.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_pigstep": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "maxs_mixtapes:entities/ltpig"
+    ]
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

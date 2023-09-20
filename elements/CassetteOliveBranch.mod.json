@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Olive Branch",
+    "texture": "freckle_rectangle_music_device",
+    "description": "Sepiatonic - Olive Branch",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"I don't want a sandwich!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:olive_branch"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Lightsabers",
+    "texture": "logic",
+    "description": "Logic - Lightsabers",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"My flow non-binary, that mean it never miss\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:lightsabers"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

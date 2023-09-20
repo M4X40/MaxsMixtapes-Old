@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Return to Slime",
+    "texture": "the_slime_god",
+    "description": "DM DOKURO - Return to Slime",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Its purity is sullied by freshly absorbed muck and grime.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:return_to_slime"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Thunder Roll",
+    "texture": "thunder",
+    "description": "Shao Dow - Thunder Roll",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Street warrior, sushi chef, and the coolest lizard in the Peace Syndicate.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:thunder_roll"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

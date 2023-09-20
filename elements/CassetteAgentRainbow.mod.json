@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Here Comes A Savior",
+    "texture": "agent_rainbow_tape",
+    "description": "The Living Tombstone - Here Comes A Savior",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"And I am in sound mind\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:here_comes_a_savior"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

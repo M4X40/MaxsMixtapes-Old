@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "We Move Together as One",
+    "texture": "lucio_speed",
+    "description": "Lúcio - We Move Together as One",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Yeeeaah, let's move it, people!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:wmtao"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

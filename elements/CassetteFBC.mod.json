@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Four Brave Champions",
+    "texture": "ice_knight",
+    "description": "David Orr - Four Brave Champions",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"bro stop spamming lightning magic\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:fbc"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Science Blaster",
+    "texture": "gt",
+    "description": "Nirre - Science Blaster",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"And that's just a theory\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:sb"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

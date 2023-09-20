@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Addict",
+    "texture": "angel_dust",
+    "description": "Silva Hound - Addict",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Maybe things won't be so terrible inside this hotel...\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:addict"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "maxs_mixtapes:cassette_tulips"
+    },
+    "title": {
+      "translate": "advancements.adv_omori.title"
+    },
+    "description": {
+      "translate": "advancements.adv_omori.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_omori": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "maxs_mixtapes:entities/ltomori"
+    ]
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

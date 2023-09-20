@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "A CYBERS WORLD?",
+    "texture": "cybers_world",
+    "description": "Toby Fox - A CYBERS WORLD?",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Potassium.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:cybers_world"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

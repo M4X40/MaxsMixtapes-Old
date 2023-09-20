@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "My Ordinary Life",
+    "texture": "mol",
+    "description": "The Living Tombstone - My Ordinary Life",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"So high up, I'm near divine\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:my_ordinary_life"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "California Gurls",
+    "texture": "zen",
+    "description": "Katy Perry - California Gurls",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Greetings, loved ones. Let's take a journey.\" (zen SHUT UP)"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:cali_girls"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

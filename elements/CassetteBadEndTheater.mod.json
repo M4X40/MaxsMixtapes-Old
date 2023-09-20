@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Bad End Theater",
+    "texture": "bad_end_theater",
+    "description": "Eleanor Forte - Bad End Theater",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"I've missed you my darling\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:bad_end_theater"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

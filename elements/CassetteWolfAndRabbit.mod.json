@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Wolf and Rabbit",
+    "texture": "haru",
+    "description": "Satoru Kōsaki - Wolf and Rabbit",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"In the game of love, the more desperate you are, the more you lose.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:war"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "The Tale of a Cruel World",
+    "texture": "brimstone_witch",
+    "description": "DM DOKURO - The Tale of a Cruel World",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"This was the moment in which Calamity reigned supreme.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:toacw"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

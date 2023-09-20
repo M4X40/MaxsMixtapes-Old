@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Island Song",
+    "texture": "finn",
+    "description": "Ashley Eriksson - Island Song",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Mathematical!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:island"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

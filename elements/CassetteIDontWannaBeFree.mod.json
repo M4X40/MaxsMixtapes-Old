@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "I Don't Wanna Be Free",
+    "texture": "markiplier",
+    "description": "Markiplier - I Don't Wanna Be Free",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"You're never livin in prison theres always somethin to do!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:idwbf"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

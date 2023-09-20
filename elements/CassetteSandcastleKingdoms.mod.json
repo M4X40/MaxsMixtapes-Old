@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Sandcastle Kingdoms",
+    "texture": "sandcastle",
+    "description": "NateWantsToBattle - Sandcastle Kingdoms",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Maybe one day, you'll find a golden key.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:sandcastle_kingdoms"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

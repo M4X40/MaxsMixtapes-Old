@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "anemoia",
+    "texture": "dbbq_ena",
+    "description": "Oliver Buckland - anemoia",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"HAAH!! Are you kidding?! I HATE THIS STUPID JOB!!!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:anemoia"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

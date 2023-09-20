@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Love, Me Normally",
+    "texture": "love_me_normally",
+    "description": "Will Wood - Love, Me Normally",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"I suggest that we keep this informal\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:love_me_normally"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

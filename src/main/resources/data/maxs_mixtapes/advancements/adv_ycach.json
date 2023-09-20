@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "adv_ycach": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "maxs_mixtapes:cassette_toriel"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

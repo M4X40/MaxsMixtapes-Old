@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "HERE I COME (Phonk Ver.)",
+    "texture": "seek_tape",
+    "description": "ANTIQUE - HERE I COME (Phonk Ver.)",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "Ready or not..."
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:here_i_come"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

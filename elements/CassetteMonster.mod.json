@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Monster",
+    "texture": "monster",
+    "description": "Starset - Monster",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "So edgy you could hurt yourself, be gentle."
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:monster"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

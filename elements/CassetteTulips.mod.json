@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "A Home For Flowers (Tulips)",
+    "texture": "basil",
+    "description": "Pedro Silva - A Home For Flowers (Tulips)",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"My thoughts will follow you into your dreams\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:home_for_flowers"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

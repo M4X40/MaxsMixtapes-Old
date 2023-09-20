@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Roxanne",
+    "texture": "roxanne",
+    "description": "Arizona Zervas - ROXANNE",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "She kinda bad tho"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:roxanne"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

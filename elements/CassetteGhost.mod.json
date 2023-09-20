@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Ghost",
+    "texture": "ghost",
+    "description": "nelward - Ghost",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"I don't believe in animals, milk comes from the trees.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:ghost"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

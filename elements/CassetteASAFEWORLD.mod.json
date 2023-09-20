@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "A SAFE WORLD???",
+    "texture": "a_safe_world",
+    "description": "SilvaGunner - A Safe World???",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "I love deltarune..."
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:a_safe_world"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

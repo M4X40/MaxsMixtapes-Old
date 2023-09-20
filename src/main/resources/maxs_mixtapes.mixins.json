@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "m4x4.mixtapes.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+	"MaxsMixtapesModRepairItemRecipeMixin"  ],
+  "injectors": {
+	"defaultRequire": 1
+  }
+}

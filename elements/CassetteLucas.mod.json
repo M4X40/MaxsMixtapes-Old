@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Me And The Boys",
+    "texture": "lucas_tape",
+    "description": "The Living Tombstone - Me And The Boys",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"I noticed and I notice it again\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:me_and_the_boys"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Letter To My Brother",
+    "texture": "rome_childhood",
+    "description": "Kobi Aflalo - מכתב לאחי",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "Welcome home, Rome."
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:letter_to_my_brother"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

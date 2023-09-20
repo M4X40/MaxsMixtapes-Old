@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Gym Leader Battle",
+    "texture": "pikachu",
+    "description": "Nintendo - Gym Leader Battle",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "Half of this games budget went into this song."
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:gymbattle"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

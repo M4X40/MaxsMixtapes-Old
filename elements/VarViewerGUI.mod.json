@@ -1,0 +1,247 @@
+{
+  "_fv": 47,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 423,
+    "height": 239,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_queue_slot",
+          "text": {
+            "fixedValue": "Queue Slot"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 8
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "51",
+          "name": "QueueSlotTB",
+          "width": 324,
+          "height": 20,
+          "x": 87,
+          "y": 8
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_slottocheck",
+          "text": {
+            "fixedValue": "SlotToCheck"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 35
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "51",
+          "name": "SlotCheckTB",
+          "width": 324,
+          "height": 20,
+          "x": 87,
+          "y": 35
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_current_song",
+          "text": {
+            "fixedValue": "Current Song"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 62
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "none",
+          "name": "CurrentSongTB",
+          "width": 324,
+          "height": 20,
+          "x": 87,
+          "y": 62
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty2",
+          "text": "Set",
+          "onClick": {
+            "name": "SetButton"
+          },
+          "width": 27,
+          "height": 20,
+          "x": 393,
+          "y": 215
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_current_length",
+          "text": {
+            "fixedValue": "Current Length"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 89
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "20",
+          "name": "CurrentLengthTB",
+          "width": 324,
+          "height": 20,
+          "x": 87,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_check_slot",
+          "text": {
+            "fixedValue": "Check Slot"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 116
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "true",
+          "name": "CheckSlotTB",
+          "width": 324,
+          "height": 20,
+          "x": 87,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_swap_on_open",
+          "text": {
+            "fixedValue": "Swap on Open"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 143
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "false",
+          "name": "SOOTB",
+          "width": 324,
+          "height": 20,
+          "x": 87,
+          "y": 143
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_stoppedcount",
+          "text": {
+            "fixedValue": "StoppedCount"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 170
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "0",
+          "name": "StopCountTB",
+          "width": 324,
+          "height": 20,
+          "x": 87,
+          "y": 170
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_stoppedcount_old",
+          "text": {
+            "fixedValue": "StoppedCount Old"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 197
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "0",
+          "name": "SCOTB",
+          "width": 315,
+          "height": 20,
+          "x": 96,
+          "y": 197
+        }
+      }
+    ],
+    "onOpen": {
+      "name": "VarViewerGUIThisGUIIsOpened"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

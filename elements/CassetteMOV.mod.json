@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Mice on Venus",
+    "texture": "mice_on_venus",
+    "description": "C418 - Mice on Venus",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"The song you used to know.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:mov"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

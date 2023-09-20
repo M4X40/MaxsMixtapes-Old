@@ -1,0 +1,12 @@
+{
+  "_fv": 47,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "0",
+    "keyBindingName": "Debugging",
+    "keyBindingCategoryKey": "mod",
+    "onKeyPressed": {
+      "name": "TestKBOnKeyPressed"
+    }
+  }
+}

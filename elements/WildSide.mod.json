@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Wild Side",
+    "texture": "wild_side",
+    "description": "ALI - Wild Side",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"I'll be fine. It's always been like this \""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:wild_side"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

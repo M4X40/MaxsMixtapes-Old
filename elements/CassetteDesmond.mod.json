@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "How It Seems To End",
+    "texture": "tonia",
+    "description": "The Living Tombstone - How It Seems To End",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"You loved me and thats all i ever cared about\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:histe"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

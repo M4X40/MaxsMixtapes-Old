@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Five Long Nights",
+    "texture": "fazbear_tape",
+    "description": "JT Music - Five Long Nights",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"The friends are forever\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:five_long_nights"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

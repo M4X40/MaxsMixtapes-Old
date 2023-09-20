@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "The Last Goodbye",
+    "texture": "inspacewithmark",
+    "description": "Markiplier - The Last Goodbye",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"We're going down in a blaze of glory!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:the_last_goodbye"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

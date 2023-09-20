@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Undertale",
+    "texture": "frisk",
+    "description": "Toby Fox - Undertale",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Despite everything, it's still you\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:undertale"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

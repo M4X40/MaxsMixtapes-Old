@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Always Come Back",
+    "texture": "spingtap",
+    "description": "NateWantsToBattle - Always Come Back",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Until then don't you dare say that we are the same\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:always_come_back"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

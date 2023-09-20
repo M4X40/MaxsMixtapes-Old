@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Barbie Girl",
+    "texture": "barbie",
+    "description": "Aqua - Barbie Girl",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Anxiety, Panic Attacks, and OCD not included\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:barbie_girl"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,2207 @@
+{
+  "buckle_my_phonk": {
+    "subtitle": "subtitles.buckle_my_phonk",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:buckle_my_phonk-mono",
+        "stream": true
+      }
+    ]
+  },
+  "here_comes_a_savior": {
+    "subtitle": "subtitles.here_comes_a_savior",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:here_comes_a_savior-mono",
+        "stream": true
+      }
+    ]
+  },
+  "big_poppa": {
+    "subtitle": "subtitles.big_poppa",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:big_poppa-mono",
+        "stream": true
+      }
+    ]
+  },
+  "histe": {
+    "subtitle": "subtitles.histe",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:how_it_seems_to_end_credits-mono",
+        "stream": true
+      }
+    ]
+  },
+  "tomcat_disposables": {
+    "subtitle": "subtitles.tomcat_disposables",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:will_wood_-_tomcat_disposables_official_video-mono",
+        "stream": true
+      }
+    ]
+  },
+  "here_i_come": {
+    "subtitle": "subtitles.here_i_come",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:here_i_come-mono",
+        "stream": true
+      }
+    ]
+  },
+  "my_ordinary_life": {
+    "subtitle": "subtitles.my_ordinary_life",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:my_ordinary_life-mono",
+        "stream": true
+      }
+    ]
+  },
+  "wbtta": {
+    "subtitle": "subtitles.wbtta",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:well_better_than_the_alternative-mono",
+        "stream": true
+      }
+    ]
+  },
+  "okultra": {
+    "subtitle": "subtitles.okultra",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:blackboxwarrior_-_okultra-mono",
+        "stream": true
+      }
+    ]
+  },
+  "love_me_normally": {
+    "subtitle": "subtitles.love_me_normally",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:love_me_normally-mono",
+        "stream": true
+      }
+    ]
+  },
+  "cosmic": {
+    "subtitle": "subtitles.cosmic",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:cosmic-mono",
+        "stream": true
+      }
+    ]
+  },
+  "nightmare": {
+    "subtitle": "subtitles.nightmare",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:nightmare-mono",
+        "stream": true
+      }
+    ]
+  },
+  "bad_end_theater": {
+    "subtitle": "subtitles.bad_end_theater",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:bad_end_theater-mono",
+        "stream": true
+      }
+    ]
+  },
+  "wild_side": {
+    "subtitle": "subtitles.wild_side",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:wild_side-mono",
+        "stream": true
+      }
+    ]
+  },
+  "olive_branch": {
+    "subtitle": "subtitles.olive_branch",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:olive_branch-mono",
+        "stream": true
+      }
+    ]
+  },
+  "alpha": {
+    "subtitle": "subtitles.alpha",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:alpha-mono",
+        "stream": true
+      }
+    ]
+  },
+  "pigstep_troll": {
+    "subtitle": "subtitles.pigstep_troll",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:pigstep__-_minecraft-mono",
+        "stream": true
+      }
+    ]
+  },
+  "whatever_it_takes": {
+    "subtitle": "subtitles.whatever_it_takes",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:whatever_it_takes-mono",
+        "stream": true
+      }
+    ]
+  },
+  "a_dolls_house": {
+    "subtitle": "subtitles.a_dolls_house",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:a_dolls_house-mono",
+        "stream": true
+      }
+    ]
+  },
+  "rotjd": {
+    "subtitle": "subtitles.rotjd",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:roar_of_the_jungle_dragon-mono",
+        "stream": true
+      }
+    ]
+  },
+  "return_to_slime": {
+    "subtitle": "subtitles.return_to_slime",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:return_to_slime-mono",
+        "stream": true
+      }
+    ]
+  },
+  "bottom_of_the_pit": {
+    "subtitle": "subtitles.bottom_of_the_pit",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:bottom_of_the_pit-mono",
+        "stream": true
+      }
+    ]
+  },
+  "is_it_me": {
+    "subtitle": "subtitles.is_it_me",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:is_it_me-mono",
+        "stream": true
+      }
+    ]
+  },
+  "me_and_the_boys": {
+    "subtitle": "subtitles.me_and_the_boys",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:me_and_the_boys-mono",
+        "stream": true
+      }
+    ]
+  },
+  "five_long_nights": {
+    "subtitle": "subtitles.five_long_nights",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:five_long_nights-mono",
+        "stream": true
+      }
+    ]
+  },
+  "want_you_gone": {
+    "subtitle": "subtitles.want_you_gone",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:want_you_gone-mono",
+        "stream": true
+      }
+    ]
+  },
+  "dawn_of_the_doors": {
+    "subtitle": "subtitles.dawn_of_the_doors",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:dawn_of_the_doors-mono",
+        "stream": true
+      }
+    ]
+  },
+  "guiding_light": {
+    "subtitle": "subtitles.guiding_light",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:guiding_light-mono",
+        "stream": true
+      }
+    ]
+  },
+  "ghosts_n_stuff": {
+    "subtitle": "subtitles.ghosts_n_stuff",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:ghosts_n_stuff-mono",
+        "stream": true
+      }
+    ]
+  },
+  "sunset_rose_cocktail": {
+    "subtitle": "subtitles.sunset_rose_cocktail",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:sunset_rose_cocktail-mono",
+        "stream": true
+      }
+    ]
+  },
+  "still_alive": {
+    "subtitle": "subtitles.still_alive",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:still_alive-mono",
+        "stream": true
+      }
+    ]
+  },
+  "big_poppa_stereo": {
+    "subtitle": "subtitles.big_poppa_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:big_poppa",
+        "stream": true
+      }
+    ]
+  },
+  "hcas_stereo": {
+    "subtitle": "subtitles.hcas_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:here_comes_a_savior",
+        "stream": true
+      }
+    ]
+  },
+  "bmp_stereo": {
+    "subtitle": "subtitles.bmp_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:buckle_my_phonk",
+        "stream": true
+      }
+    ]
+  },
+  "cosmic_stereo": {
+    "subtitle": "subtitles.cosmic_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:cosmic",
+        "stream": true
+      }
+    ]
+  },
+  "betty": {
+    "subtitle": "subtitles.betty",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:betty_get_money-mono",
+        "stream": true
+      }
+    ]
+  },
+  "betty_stereo": {
+    "subtitle": "subtitles.betty_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:betty_get_money",
+        "stream": true
+      }
+    ]
+  },
+  "doll_house_stereo": {
+    "subtitle": "subtitles.doll_house_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:a_dolls_house",
+        "stream": true
+      }
+    ]
+  },
+  "bow_stereo": {
+    "subtitle": "subtitles.bow_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:mfs_-_bow",
+        "stream": true
+      }
+    ]
+  },
+  "bow": {
+    "subtitle": "subtitles.bow",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:mfs_-_bow-mono",
+        "stream": true
+      }
+    ]
+  },
+  "botp_stereo": {
+    "subtitle": "subtitles.botp_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:bottom_of_the_pit",
+        "stream": true
+      }
+    ]
+  },
+  "box15_stereo": {
+    "subtitle": "subtitles.box15_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:box_15",
+        "stream": true
+      }
+    ]
+  },
+  "box15": {
+    "subtitle": "subtitles.box15",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:box_15-mono",
+        "stream": true
+      }
+    ]
+  },
+  "is_it_me_stereo": {
+    "subtitle": "subtitles.is_it_me_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:is_it_me",
+        "stream": true
+      }
+    ]
+  },
+  "matb_stereo": {
+    "subtitle": "subtitles.matb_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:me_and_the_boys",
+        "stream": true
+      }
+    ]
+  },
+  "wit_stereo": {
+    "subtitle": "subtitles.wit_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:whatever_it_takes",
+        "stream": true
+      }
+    ]
+  },
+  "histe_stereo": {
+    "subtitle": "subtitles.histe_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:how_it_seems_to_end_credits",
+        "stream": true
+      }
+    ]
+  },
+  "good_morning": {
+    "subtitle": "subtitles.good_morning",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:good_morning-mono",
+        "stream": true
+      }
+    ]
+  },
+  "good_morning_stereo": {
+    "subtitle": "subtitles.good_morning_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:good_morning",
+        "stream": true
+      }
+    ]
+  },
+  "stronger_stereo": {
+    "subtitle": "subtitles.stronger_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:stronger",
+        "stream": true
+      }
+    ]
+  },
+  "stronger": {
+    "subtitle": "subtitles.stronger",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:stronger-mono",
+        "stream": true
+      }
+    ]
+  },
+  "my_ordinary_life_stereo": {
+    "subtitle": "subtitles.my_ordinary_life_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:my_ordinary_life",
+        "stream": true
+      }
+    ]
+  },
+  "five_long_nights_stereo": {
+    "subtitle": "subtitles.five_long_nights_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:five_long_nights",
+        "stream": true
+      }
+    ]
+  },
+  "dotd_stereo": {
+    "subtitle": "subtitles.dotd_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:dawn_of_the_doors",
+        "stream": true
+      }
+    ]
+  },
+  "guiding_light_stereo": {
+    "subtitle": "subtitles.guiding_light_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:guiding_light",
+        "stream": true
+      }
+    ]
+  },
+  "here_i_come_stereo": {
+    "subtitle": "subtitles.here_i_come_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:here_i_come",
+        "stream": true
+      }
+    ]
+  },
+  "god_of_war_stereo": {
+    "subtitle": "subtitles.god_of_war_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:god_of_war",
+        "stream": true
+      }
+    ]
+  },
+  "god_of_war": {
+    "subtitle": "subtitles.god_of_war",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:god_of_war-mono",
+        "stream": true
+      }
+    ]
+  },
+  "love_like_you_stereo": {
+    "subtitle": "subtitles.love_like_you_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:love_like_you",
+        "stream": true
+      }
+    ]
+  },
+  "love_like_you": {
+    "subtitle": "subtitles.love_like_you",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:love_like_you-mono",
+        "stream": true
+      }
+    ]
+  },
+  "tomcat_disposables_stereo": {
+    "subtitle": "subtitles.tomcat_disposables_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:will_wood_-_tomcat_disposables_official_video",
+        "stream": true
+      }
+    ]
+  },
+  "wbtta_stereo": {
+    "subtitle": "subtitles.wbtta_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:well_better_than_the_alternative",
+        "stream": true
+      }
+    ]
+  },
+  "okultra_stereo": {
+    "subtitle": "subtitles.okultra_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:blackboxwarrior_-_okultra",
+        "stream": true
+      }
+    ]
+  },
+  "love_me_normally_stereo": {
+    "subtitle": "subtitles.love_me_normally_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:love_me_normally",
+        "stream": true
+      }
+    ]
+  },
+  "return_to_slime_stereo": {
+    "subtitle": "subtitles.return_to_slime_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:return_to_slime",
+        "stream": true
+      }
+    ]
+  },
+  "toacw": {
+    "subtitle": "subtitles.toacw",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:the_tale_of_a_cruel_world-mono",
+        "stream": true
+      }
+    ]
+  },
+  "toacw_stereo": {
+    "subtitle": "subtitles.toacw_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:the_tale_of_a_cruel_world",
+        "stream": true
+      }
+    ]
+  },
+  "universal_collapse": {
+    "subtitle": "subtitles.universal_collapse",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:universal_collapse-mono",
+        "stream": true
+      }
+    ]
+  },
+  "universal_collapse_stereo": {
+    "subtitle": "subtitles.universal_collapse_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:universal_collapse",
+        "stream": true
+      }
+    ]
+  },
+  "sotu": {
+    "subtitle": "subtitles.sotu",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:scourge_of_the_universe-mono",
+        "stream": true
+      }
+    ]
+  },
+  "sotu_stereo": {
+    "subtitle": "subtitles.sotu_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:scourge_of_the_universe",
+        "stream": true
+      }
+    ]
+  },
+  "thunder_roll": {
+    "subtitle": "subtitles.thunder_roll",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:thunder_roll-mono",
+        "stream": true
+      }
+    ]
+  },
+  "thunder_roll_stereo": {
+    "subtitle": "subtitles.thunder_roll_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:thunder_roll",
+        "stream": false
+      }
+    ]
+  },
+  "jungle_dragon_stereo": {
+    "subtitle": "subtitles.jungle_dragon_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:roar_of_the_jungle_dragon",
+        "stream": true
+      }
+    ]
+  },
+  "american_boy_stereo": {
+    "subtitle": "subtitles.american_boy_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:american_boy",
+        "stream": true
+      }
+    ]
+  },
+  "american_boy": {
+    "subtitle": "subtitles.american_boy",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:american_boy-mono",
+        "stream": true
+      }
+    ]
+  },
+  "mos_thoser_stereo": {
+    "subtitle": "subtitles.mos_thoser_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:mos_thoser",
+        "stream": true
+      }
+    ]
+  },
+  "mos_thoser": {
+    "subtitle": "subtitles.mos_thoser",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:mos_thoser-mono",
+        "stream": true
+      }
+    ]
+  },
+  "ghosts_n_stuff_stereo": {
+    "subtitle": "subtitles.ghosts_n_stuff_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:ghosts_n_stuff",
+        "stream": true
+      }
+    ]
+  },
+  "final_duet": {
+    "subtitle": "subtitles.final_duet",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:omori_-_final_duet-mono",
+        "stream": true
+      }
+    ]
+  },
+  "final_duet_stereo": {
+    "subtitle": "subtitles.final_duet_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:omori_-_final_duet",
+        "stream": true
+      }
+    ]
+  },
+  "home_for_flowers": {
+    "subtitle": "subtitles.home_for_flowers",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:omori_ost_-_013_a_home_for_flowers_tulip-mono",
+        "stream": true
+      }
+    ]
+  },
+  "home_for_flowers_stereo": {
+    "subtitle": "subtitles.home_for_flowers_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:omori_ost_-_013_a_home_for_flowers_tulip",
+        "stream": true
+      }
+    ]
+  },
+  "my_time": {
+    "subtitle": "subtitles.my_time",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:my_time-mono",
+        "stream": true
+      }
+    ]
+  },
+  "my_time_stereo": {
+    "subtitle": "subtitles.my_time_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:my_time",
+        "stream": true
+      }
+    ]
+  },
+  "death_by_glamor_stereo": {
+    "subtitle": "subtitles.death_by_glamor_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:undertale_ost_068_-_death_by_glamour",
+        "stream": true
+      }
+    ]
+  },
+  "death_by_glamor": {
+    "subtitle": "subtitles.death_by_glamor",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:undertale_ost_068_-_death_by_glamour-mono",
+        "stream": true
+      }
+    ]
+  },
+  "fohad": {
+    "subtitle": "subtitles.fohad",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:deltarune_ost_13_-_field_of_hopes_and_dreams-mono",
+        "stream": true
+      }
+    ]
+  },
+  "fohad_stereo": {
+    "subtitle": "subtitles.fohad_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:deltarune_ost_13_-_field_of_hopes_and_dreams",
+        "stream": true
+      }
+    ]
+  },
+  "ycach": {
+    "subtitle": "subtitles.ycach",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:you_can_always_come_home-mono",
+        "stream": true
+      }
+    ]
+  },
+  "ycach_stereo": {
+    "subtitle": "subtitles.ycach_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:you_can_always_come_home",
+        "stream": true
+      }
+    ]
+  },
+  "scarlet_forest": {
+    "subtitle": "subtitles.scarlet_forest",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:scarlet_forest-mono",
+        "stream": true
+      }
+    ]
+  },
+  "anarchy_rainbow": {
+    "subtitle": "subtitles.anarchy_rainbow",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:anarchy_rainbow_-_splatoon_3_splatfest_original_hq-mono",
+        "stream": true
+      }
+    ]
+  },
+  "anarchy_rainbow_stereo": {
+    "subtitle": "subtitles.anarchy_rainbow_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:anarchy_rainbow_-_splatoon_3_splatfest_original_hq",
+        "stream": true
+      }
+    ]
+  },
+  "two_time_zones": {
+    "subtitle": "subtitles.two_time_zones",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:2_time_zones-mono",
+        "stream": true
+      }
+    ]
+  },
+  "two_time_zones_stereo": {
+    "subtitle": "subtitles.two_time_zones_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:2_time_zones",
+        "stream": true
+      }
+    ]
+  },
+  "bad_end_theater_stereo": {
+    "subtitle": "subtitles.bad_end_theater_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:bad_end_theater",
+        "stream": true
+      }
+    ]
+  },
+  "wild_side_stereo": {
+    "subtitle": "subtitles.wild_side_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:wild_side",
+        "stream": true
+      }
+    ]
+  },
+  "letter_to_my_brother": {
+    "subtitle": "subtitles.letter_to_my_brother",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:letter_to_my_brother-mono",
+        "stream": true
+      }
+    ]
+  },
+  "letter_to_my_brother_stereo": {
+    "subtitle": "subtitles.letter_to_my_brother_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:letter_to_my_brother",
+        "stream": true
+      }
+    ]
+  },
+  "after_dark": {
+    "subtitle": "subtitles.after_dark",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:after_dark-mono",
+        "stream": true
+      }
+    ]
+  },
+  "after_dark_stereo": {
+    "subtitle": "subtitles.after_dark_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:after_dark",
+        "stream": true
+      }
+    ]
+  },
+  "still_alive-stereo": {
+    "subtitle": "subtitles.still_alive-stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:portal_-_still_alive",
+        "stream": true
+      }
+    ]
+  },
+  "want_you_gone_stereo": {
+    "subtitle": "subtitles.want_you_gone_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:portal_2_end_credits_song_want_you_gone_by_jonathan_coulton_1080p_hd",
+        "stream": true
+      }
+    ]
+  },
+  "nightmare_stereo": {
+    "subtitle": "subtitles.nightmare_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:avenged_sevenfold_-_nightmare_hq",
+        "stream": true
+      }
+    ]
+  },
+  "fmttm_stereo": {
+    "subtitle": "subtitles.fmttm_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:patrick_on_a_seahorse_listening_to_fly_me_to_the_moon",
+        "stream": true
+      }
+    ]
+  },
+  "fmttm": {
+    "subtitle": "subtitles.fmttm",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:patrick_on_a_seahorse_listening_to_fly_me_to_the_moon-mono",
+        "stream": true
+      }
+    ]
+  },
+  "sunset_rose_cocktail_stereo": {
+    "subtitle": "subtitles.sunset_rose_cocktail_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:sunset_rose_cocktail",
+        "stream": true
+      }
+    ]
+  },
+  "olive_branch_stereo": {
+    "subtitle": "subtitles.olive_branch_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:olive_branch",
+        "stream": true
+      }
+    ]
+  },
+  "monster": {
+    "subtitle": "subtitles.monster",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:starset_-_monster_official_audio-mono",
+        "stream": true
+      }
+    ]
+  },
+  "monster_stereo": {
+    "subtitle": "subtitles.monster_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:starset_-_monster_official_audio",
+        "stream": true
+      }
+    ]
+  },
+  "pigstep_stereo": {
+    "subtitle": "subtitles.pigstep_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:pigstep__-_minecraft",
+        "stream": true
+      }
+    ]
+  },
+  "cybers_world": {
+    "subtitle": "subtitles.cybers_world",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:a_cybers_world-mono",
+        "stream": true
+      }
+    ]
+  },
+  "cybers_world_stereo": {
+    "subtitle": "subtitles.cybers_world_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:a_cybers_world",
+        "stream": true
+      }
+    ]
+  },
+  "ottt": {
+    "subtitle": "subtitles.ottt",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:1_thot_2_thot_red_thot_blue_thot-mono",
+        "stream": true
+      }
+    ]
+  },
+  "ottt_stereo": {
+    "subtitle": "subtitles.ottt_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:1_thot_2_thot_red_thot_blue_thot",
+        "stream": true
+      }
+    ]
+  },
+  "alpha_stereo": {
+    "subtitle": "subtitles.alpha_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:alpha",
+        "stream": true
+      }
+    ]
+  },
+  "undertale_stereo": {
+    "subtitle": "subtitles.undertale_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:undertale_ost_071_-_undertale",
+        "stream": true
+      }
+    ]
+  },
+  "undertale": {
+    "subtitle": "subtitles.undertale",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:undertale_ost_071_-_undertale-mono",
+        "stream": true
+      }
+    ]
+  },
+  "cest_la_vie": {
+    "subtitle": "subtitles.cest_la_vie",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:cest_la_vie_official_lyric_video-mono",
+        "stream": true
+      }
+    ]
+  },
+  "cest_la_vie_stereo": {
+    "subtitle": "subtitles.cest_la_vie_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:cest_la_vie_official_lyric_video",
+        "stream": true
+      }
+    ]
+  },
+  "gtaw_stereo": {
+    "subtitle": "subtitles.gtaw_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:goodbye_to_a_world",
+        "stream": true
+      }
+    ]
+  },
+  "gtaw": {
+    "subtitle": "subtitles.gtaw",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:goodbye_to_a_world-mono",
+        "stream": true
+      }
+    ]
+  },
+  "rejuv_stereo": {
+    "subtitle": "subtitles.rejuv_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:lucio_-_rejuvenescencia_radio_edit",
+        "stream": true
+      }
+    ]
+  },
+  "rejuv": {
+    "subtitle": "subtitles.rejuv",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:lucio_-_rejuvenescencia_radio_edit-mono",
+        "stream": true
+      }
+    ]
+  },
+  "wmtao": {
+    "subtitle": "subtitles.wmtao",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:lucio_-_we_move_together_as_one_radio_edit-mono",
+        "stream": true
+      }
+    ]
+  },
+  "wmtao_stereo": {
+    "subtitle": "subtitles.wmtao_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:lucio_-_we_move_together_as_one_radio_edit",
+        "stream": true
+      }
+    ]
+  },
+  "ghost_stereo": {
+    "subtitle": "subtitles.ghost_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:ghost",
+        "stream": true
+      }
+    ]
+  },
+  "ghost": {
+    "subtitle": "subtitles.ghost",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:ghost-mono",
+        "stream": true
+      }
+    ]
+  },
+  "parasite": {
+    "subtitle": "subtitles.parasite",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:parasite-mono",
+        "stream": true
+      }
+    ]
+  },
+  "parasite_stereo": {
+    "subtitle": "subtitles.parasite_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:parasite",
+        "stream": true
+      }
+    ]
+  },
+  "if_we_fall": {
+    "subtitle": "subtitles.if_we_fall",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:if_we_fall-mono",
+        "stream": true
+      }
+    ]
+  },
+  "if_we_fall_stereo": {
+    "subtitle": "subtitles.if_we_fall_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:if_we_fall",
+        "stream": true
+      }
+    ]
+  },
+  "eisop": {
+    "subtitle": "subtitles.eisop",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:ultimate_custom_night_ost_-_eisoptrophobia_character_select-mono",
+        "stream": true
+      }
+    ]
+  },
+  "eisop_stereo": {
+    "subtitle": "subtitles.eisop_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:ultimate_custom_night_ost_-_eisoptrophobia_character_select",
+        "stream": true
+      }
+    ]
+  },
+  "sandcastle_kingdoms": {
+    "subtitle": "subtitles.sandcastle_kingdoms",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:natewantstobattle_-_sandcastle_kingdoms_official_lyric_video_on_itunes__spotify-mono",
+        "stream": true
+      }
+    ]
+  },
+  "sandcastle_kingdoms_stereo": {
+    "subtitle": "subtitles.sandcastle_kingdoms_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:natewantstobattle_-_sandcastle_kingdoms_official_lyric_video_on_itunes__spotify",
+        "stream": true
+      }
+    ]
+  },
+  "leave_me_behind": {
+    "subtitle": "subtitles.leave_me_behind",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:leave_me_behind-mono",
+        "stream": true
+      }
+    ]
+  },
+  "leave_me_behind_stereo": {
+    "subtitle": "subtitles.leave_me_behind_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:leave_me_behind",
+        "stream": true
+      }
+    ]
+  },
+  "always_come_back": {
+    "subtitle": "subtitles.always_come_back",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:always_come_back-mono",
+        "stream": true
+      }
+    ]
+  },
+  "always_come_back_stereo": {
+    "subtitle": "subtitles.always_come_back_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:always_come_back",
+        "stream": true
+      }
+    ]
+  },
+  "bbt": {
+    "subtitle": "subtitles.bbt",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:battleblock_theater_menu_theme-mono",
+        "stream": true
+      }
+    ]
+  },
+  "bbt_stereo": {
+    "subtitle": "subtitles.bbt_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:battleblock_theater_menu_theme",
+        "stream": true
+      }
+    ]
+  },
+  "safeandsound": {
+    "subtitle": "subtitles.safeandsound",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:capital_cities_-_safe_and_sound-mono",
+        "stream": true
+      }
+    ]
+  },
+  "safeandsound_stereo": {
+    "subtitle": "subtitles.safeandsound_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:capital_cities_-_safe_and_sound",
+        "stream": true
+      }
+    ]
+  },
+  "puppeteer": {
+    "subtitle": "subtitles.puppeteer",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:puppeteer_demo-mono",
+        "stream": true
+      }
+    ]
+  },
+  "puppeteer_stereo": {
+    "subtitle": "subtitles.puppeteer_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:puppeteer_demo",
+        "stream": true
+      }
+    ]
+  },
+  "kick_back_stereo": {
+    "subtitle": "subtitles.kick_back_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:chainsaw_man_-_opening_full_kick_back_by_kenshi_yonezu_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "kick_back": {
+    "subtitle": "subtitles.kick_back",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:chainsaw_man_-_opening_full_kick_back_by_kenshi_yonezu_lyrics-mono",
+        "stream": true
+      }
+    ]
+  },
+  "dreamland": {
+    "subtitle": "subtitles.dreamland",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:dreamland-mono",
+        "stream": true
+      }
+    ]
+  },
+  "dreamland_stereo": {
+    "subtitle": "subtitles.dreamland_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:dreamland",
+        "stream": true
+      }
+    ]
+  },
+  "idwbf": {
+    "subtitle": "subtitles.idwbf",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:i_dont_wanna_be_free-mono",
+        "stream": true
+      }
+    ]
+  },
+  "idwbf_stereo": {
+    "subtitle": "subtitles.idwbf_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:i_dont_wanna_be_free",
+        "stream": true
+      }
+    ]
+  },
+  "ywbo_stereo": {
+    "subtitle": "subtitles.ywbo_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:you_will_be_okay_stolas_lullaby_extended",
+        "stream": true
+      }
+    ]
+  },
+  "ywbo": {
+    "subtitle": "subtitles.ywbo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:you_will_be_okay_stolas_lullaby_extended-mono",
+        "stream": true
+      }
+    ]
+  },
+  "gymbattle": {
+    "subtitle": "subtitles.gymbattle",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:pokemon_sword__shield_ost_-_gym_leader_battle_full_in-game_version-mono",
+        "stream": true
+      }
+    ]
+  },
+  "gymbattle_stereo": {
+    "subtitle": "subtitles.gymbattle_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:pokemon_sword__shield_ost_-_gym_leader_battle_full_in-game_version",
+        "stream": true
+      }
+    ]
+  },
+  "the_last_goodbye": {
+    "subtitle": "subtitles.the_last_goodbye",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:the_last_goodbye-mono",
+        "stream": true
+      }
+    ]
+  },
+  "the_last_goodbye_stereo": {
+    "subtitle": "subtitles.the_last_goodbye_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:the_last_goodbye",
+        "stream": true
+      }
+    ]
+  },
+  "island_stereo": {
+    "subtitle": "subtitles.island_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:island_song_come_along_with_me",
+        "stream": true
+      }
+    ]
+  },
+  "island": {
+    "subtitle": "subtitles.island",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:island_song_come_along_with_me-mono",
+        "stream": true
+      }
+    ]
+  },
+  "riav": {
+    "subtitle": "subtitles.riav",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:rivers_is_a_vampire-mono",
+        "stream": true
+      }
+    ]
+  },
+  "riav_stereo": {
+    "subtitle": "subtitles.riav_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:rivers_is_a_vampire",
+        "stream": true
+      }
+    ]
+  },
+  "mattel": {
+    "subtitle": "subtitles.mattel",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:mattel-mono",
+        "stream": true
+      }
+    ]
+  },
+  "mattel_stereo": {
+    "subtitle": "subtitles.mattel_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:mattel",
+        "stream": true
+      }
+    ]
+  },
+  "g": {
+    "subtitle": "subtitles.g",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:g-mono",
+        "stream": true
+      }
+    ]
+  },
+  "rasputin": {
+    "subtitle": "subtitles.rasputin",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:rasputin_official_audio-mono",
+        "stream": true
+      }
+    ]
+  },
+  "rasputin_stereo": {
+    "subtitle": "subtitles.rasputin_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:rasputin_official_audio",
+        "stream": true
+      }
+    ]
+  },
+  "amongus": {
+    "subtitle": "subtitles.amongus",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:a_songus_amongus_youtube_version-mono",
+        "stream": true
+      }
+    ]
+  },
+  "amongus_stereo": {
+    "subtitle": "subtitles.amongus_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:a_songus_amongus_youtube_version",
+        "stream": true
+      }
+    ]
+  },
+  "furrymon": {
+    "subtitle": "subtitles.furrymon",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:furrymon_gotta_smash_em_all-mono",
+        "stream": true
+      }
+    ]
+  },
+  "furrymon_stereo": {
+    "subtitle": "subtitles.furrymon_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:furrymon_gotta_smash_em_all",
+        "stream": true
+      }
+    ]
+  },
+  "pizza_time_stereo": {
+    "subtitle": "subtitles.pizza_time_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:pizza_tower_ost_-_its_pizza_time",
+        "stream": true
+      }
+    ]
+  },
+  "pizza_time": {
+    "subtitle": "subtitles.pizza_time",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:pizza_tower_ost_-_its_pizza_time-mono",
+        "stream": true
+      }
+    ]
+  },
+  "like_that_stereo": {
+    "subtitle": "subtitles.like_that_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:like_that",
+        "stream": true
+      }
+    ]
+  },
+  "like_that": {
+    "subtitle": "subtitles.like_that",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:like_that-mono",
+        "stream": true
+      }
+    ]
+  },
+  "scarlet_forest_stereo": {
+    "subtitle": "subtitles.scarlet_forest_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:scarlet_forest",
+        "stream": true
+      }
+    ]
+  },
+  "g_stereo": {
+    "subtitle": "subtitles.g_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:g",
+        "stream": true
+      }
+    ]
+  },
+  "lightsabers": {
+    "subtitle": "subtitles.lightsabers",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:logic_-_lightsabers_feat_c_dot_castro_college_park-mono",
+        "stream": true
+      }
+    ]
+  },
+  "lightsabers_stereo": {
+    "subtitle": "subtitles.lightsabers_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:logic_-_lightsabers_feat_c_dot_castro_college_park",
+        "stream": true
+      }
+    ]
+  },
+  "virtual_insanity": {
+    "subtitle": "subtitles.virtual_insanity",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:virtual_insanity_official_video-mono",
+        "stream": true
+      }
+    ]
+  },
+  "virtual_insanity_stereo": {
+    "subtitle": "subtitles.virtual_insanity_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:virtual_insanity_official_video",
+        "stream": true
+      }
+    ]
+  },
+  "thebeast": {
+    "subtitle": "subtitles.thebeast",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:the_beast_is_angry",
+        "stream": true
+      }
+    ]
+  },
+  "a_safe_world_stereo": {
+    "subtitle": "subtitles.a_safe_world_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:a_cybers_world_nintendo_switch_version_-_deltarune",
+        "stream": true
+      }
+    ]
+  },
+  "a_safe_world": {
+    "subtitle": "subtitles.a_safe_world",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:a_cybers_world_nintendo_switch_version_-_deltarune-mono",
+        "stream": true
+      }
+    ]
+  },
+  "toxic_coffee_stereo": {
+    "subtitle": "subtitles.toxic_coffee_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:aesop_rock_-_toxic_coffee_britney_spears_mashup",
+        "stream": true
+      }
+    ]
+  },
+  "toxic_coffee": {
+    "subtitle": "subtitles.toxic_coffee",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:aesop_rock_-_toxic_coffee_britney_spears_mashup-mono",
+        "stream": true
+      }
+    ]
+  },
+  "anemoia_stereo": {
+    "subtitle": "subtitles.anemoia_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:anemoia",
+        "stream": true
+      }
+    ]
+  },
+  "anemoia": {
+    "subtitle": "subtitles.anemoia",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:anemoia-mono",
+        "stream": true
+      }
+    ]
+  },
+  "street_fighter_stereo": {
+    "subtitle": "subtitles.street_fighter_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:antoine_lavenant_-_street_fighter_dubstep_remix_free_download",
+        "stream": true
+      }
+    ]
+  },
+  "street_fighter": {
+    "subtitle": "subtitles.street_fighter",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:antoine_lavenant_-_street_fighter_dubstep_remix_free_download-mono",
+        "stream": true
+      }
+    ]
+  },
+  "barbie_girl_stereo": {
+    "subtitle": "subtitles.barbie_girl_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:barbie_girl_video",
+        "stream": true
+      }
+    ]
+  },
+  "barbie_girl": {
+    "subtitle": "subtitles.barbie_girl",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:barbie_girl_video-mono",
+        "stream": true
+      }
+    ]
+  },
+  "archetype_stereo": {
+    "subtitle": "subtitles.archetype_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:archetype_-_castle_crashers",
+        "stream": true
+      }
+    ]
+  },
+  "archetype": {
+    "subtitle": "subtitles.archetype",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:archetype_-_castle_crashers-mono",
+        "stream": true
+      }
+    ]
+  },
+  "cali_girls_stereo": {
+    "subtitle": "subtitles.cali_girls_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:california_gurls_official_music_video",
+        "stream": true
+      }
+    ]
+  },
+  "cali_girls": {
+    "subtitle": "subtitles.cali_girls",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:california_gurls_official_music_video-mono",
+        "stream": true
+      }
+    ]
+  },
+  "djmm_stereo": {
+    "subtitle": "subtitles.djmm_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:dj_music_man",
+        "stream": true
+      }
+    ]
+  },
+  "djmm": {
+    "subtitle": "subtitles.djmm",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:dj_music_man-mono",
+        "stream": true
+      }
+    ]
+  },
+  "drunk_stereo": {
+    "subtitle": "subtitles.drunk_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:drunk",
+        "stream": true
+      }
+    ]
+  },
+  "drunk": {
+    "subtitle": "subtitles.drunk",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:drunk-mono",
+        "stream": true
+      }
+    ]
+  },
+  "fbc_stereo": {
+    "subtitle": "subtitles.fbc_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:four_brave_champions_-_castle_crashers",
+        "stream": true
+      }
+    ]
+  },
+  "fbc": {
+    "subtitle": "subtitles.fbc",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:four_brave_champions_-_castle_crashers-mono",
+        "stream": true
+      }
+    ]
+  },
+  "gr_stereo": {
+    "subtitle": "subtitles.gr_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:god_race_temptation_stairway",
+        "stream": true
+      }
+    ]
+  },
+  "gr": {
+    "subtitle": "subtitles.gr",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:god_race_temptation_stairway-mono",
+        "stream": true
+      }
+    ]
+  },
+  "ijam_stereo": {
+    "subtitle": "subtitles.ijam_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:im_just_a_memer_feat_sordiway",
+        "stream": true
+      }
+    ]
+  },
+  "simoon_stereo": {
+    "subtitle": "subtitles.simoon_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:isao_takaku_kuziyaku_-_ymo_simoon_from_yellow_magic_orchestra",
+        "stream": true
+      }
+    ]
+  },
+  "simoon": {
+    "subtitle": "subtitles.simoon",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:isao_takaku_kuziyaku_-_ymo_simoon_from_yellow_magic_orchestra-mono",
+        "stream": true
+      }
+    ]
+  },
+  "tottfiy_stereo": {
+    "subtitle": "subtitles.tottfiy_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:mick_gordon__the_only_thing_they_fear_is_you__doom_eternal_ost_high_quality",
+        "stream": true
+      }
+    ]
+  },
+  "tottfiy": {
+    "subtitle": "subtitles.tottfiy",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:mick_gordon__the_only_thing_they_fear_is_you__doom_eternal_ost_high_quality-mono",
+        "stream": true
+      }
+    ]
+  },
+  "sac_stereo": {
+    "subtitle": "subtitles.sac_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:safe_and_sound_-_just_dance_2014",
+        "stream": true
+      }
+    ]
+  },
+  "sac": {
+    "subtitle": "subtitles.sac",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:safe_and_sound_-_just_dance_2014-mono",
+        "stream": true
+      }
+    ]
+  },
+  "sb_stereo": {
+    "subtitle": "subtitles.sb_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:science_blaster_song_remix_created_by_nirre__acid_usagi_game_theory_audio_spectrum_tribute",
+        "stream": true
+      }
+    ]
+  },
+  "sb": {
+    "subtitle": "subtitles.sb",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:science_blaster_song_remix_created_by_nirre__acid_usagi_game_theory_audio_spectrum_tribute-mono",
+        "stream": true
+      }
+    ]
+  },
+  "sg_stereo": {
+    "subtitle": "subtitles.sg_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:steam_gardens_-_super_mario_odyssey_ost",
+        "stream": true
+      }
+    ]
+  },
+  "sg": {
+    "subtitle": "subtitles.sg",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:steam_gardens_-_super_mario_odyssey_ost-mono",
+        "stream": true
+      }
+    ]
+  },
+  "eh_stereo": {
+    "subtitle": "subtitles.eh_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:the_chalkeaters_feat_natalia_natchan_-_eternal_horizonsdoom_crossing",
+        "stream": true
+      }
+    ]
+  },
+  "eh": {
+    "subtitle": "subtitles.eh",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:the_chalkeaters_feat_natalia_natchan_-_eternal_horizonsdoom_crossing-mono",
+        "stream": true
+      }
+    ]
+  },
+  "oot_stereo": {
+    "subtitle": "subtitles.oot_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:title_theme_-_the_legend_of_zelda_ocarina_of_time",
+        "stream": true
+      }
+    ]
+  },
+  "oot": {
+    "subtitle": "subtitles.oot",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:title_theme_-_the_legend_of_zelda_ocarina_of_time-mono",
+        "stream": true
+      }
+    ]
+  },
+  "bm_stereo": {
+    "subtitle": "subtitles.bm_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:yakuza_ost_-_baka_mitai_bakamitai_kiryu_full_version",
+        "stream": true
+      }
+    ]
+  },
+  "bm": {
+    "subtitle": "subtitles.bm",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:yakuza_ost_-_baka_mitai_bakamitai_kiryu_full_version-mono",
+        "stream": true
+      }
+    ]
+  },
+  "mov_stereo": {
+    "subtitle": "subtitles.mov_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:mice_on_venus_-_minecraft",
+        "stream": true
+      }
+    ]
+  },
+  "mov": {
+    "subtitle": "subtitles.mov",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:mice_on_venus_-_minecraft-mono",
+        "stream": true
+      }
+    ]
+  },
+  "addict_stereo": {
+    "subtitle": "subtitles.addict_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:addict_music_video_-_hazbin_hotel",
+        "stream": true
+      }
+    ]
+  },
+  "addict": {
+    "subtitle": "subtitles.addict",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:addict_music_video_-_hazbin_hotel-mono",
+        "stream": true
+      }
+    ]
+  },
+  "war_stereo": {
+    "subtitle": "subtitles.war_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:beastars_-wolf_and_rabbit-",
+        "stream": true
+      }
+    ]
+  },
+  "war": {
+    "subtitle": "subtitles.war",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:beastars_-wolf_and_rabbit--mono",
+        "stream": true
+      }
+    ]
+  },
+  "danbread": {
+    "subtitle": "subtitles.danbread",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:make_me_a_sandwich_-_dantdmthe_diamond_minecart",
+        "stream": true
+      }
+    ]
+  },
+  "ijam": {
+    "subtitle": "subtitles.ijam",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:im_just_a_memer_feat_sordiway-mono",
+        "stream": true
+      }
+    ]
+  },
+  "rome_reaction": {
+    "subtitle": "subtitles.rome_reaction",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:2023-07-17_19-02-48_-_trim",
+        "stream": true
+      }
+    ]
+  },
+  "box16": {
+    "subtitle": "subtitles.box16",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:box_16-mono",
+        "stream": true
+      }
+    ]
+  },
+  "roxanne": {
+    "subtitle": "subtitles.roxanne",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:roxanne-mono",
+        "stream": true
+      }
+    ]
+  },
+  "box16_stereo": {
+    "subtitle": "subtitles.box16_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:box_16",
+        "stream": true
+      }
+    ]
+  },
+  "roxanne_stereo": {
+    "subtitle": "subtitles.roxanne_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:roxanne",
+        "stream": true
+      }
+    ]
+  },
+  "wigglecore_stereo": {
+    "subtitle": "subtitles.wigglecore_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:nelward_remix_-_floorbaba_-_wigglecore",
+        "stream": true
+      }
+    ]
+  },
+  "wigglecore": {
+    "subtitle": "subtitles.wigglecore",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:nelward_remix_-_floorbaba_-_wigglecore-mono",
+        "stream": true
+      }
+    ]
+  },
+  "gravity": {
+    "subtitle": "subtitles.gravity",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:made_in_abyss_season_2_ost_15gravity_ft_arnor_dan_lyrics-mono",
+        "stream": true
+      }
+    ]
+  },
+  "gravity_stereo": {
+    "subtitle": "subtitles.gravity_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:made_in_abyss_season_2_ost_15gravity_ft_arnor_dan_lyrics",
+        "stream": true
+      }
+    ]
+  },
+  "pigstep_jazz": {
+    "subtitle": "subtitles.pigstep_jazz",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:pigstep_minecraft_jazz_arrangement_feat_lena_raine-mono",
+        "stream": true
+      }
+    ]
+  },
+  "pigstep_jazz_stereo": {
+    "subtitle": "subtitles.pigstep_jazz_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:pigstep_minecraft_jazz_arrangement_feat_lena_raine",
+        "stream": true
+      }
+    ]
+  },
+  "here_i_come_2": {
+    "subtitle": "subtitles.here_i_come_2",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:here_i_come_2-mono",
+        "stream": true
+      }
+    ]
+  },
+  "here_i_come_2_stereo": {
+    "subtitle": "subtitles.here_i_come_2_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:here_i_come_2",
+        "stream": true
+      }
+    ]
+  },
+  "btd5": {
+    "subtitle": "subtitles.btd5",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:main_theme_-_bloons_td_5-mono",
+        "stream": true
+      }
+    ]
+  },
+  "btd5_stereo": {
+    "subtitle": "subtitles.btd5_stereo",
+    "sounds": [
+      {
+        "name": "maxs_mixtapes:main_theme_-_bloons_td_5",
+        "stream": true
+      }
+    ]
+  }
+}

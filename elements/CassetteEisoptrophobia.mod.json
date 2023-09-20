@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Eisoptrophobia",
+    "texture": "fredballs",
+    "description": "Leon Riskin - Eisoptrophobia",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"This time, death cannot save you.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:eisop"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

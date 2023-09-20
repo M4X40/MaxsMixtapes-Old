@@ -1,0 +1,390 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CassetteBigPoppa"
+      },
+      {
+        "value": "CUSTOM:CassetteBuckle"
+      },
+      {
+        "value": "CUSTOM:CassetteAgentRainbow"
+      },
+      {
+        "value": "CUSTOM:CassetteDesmond"
+      },
+      {
+        "value": "CUSTOM:CassetteTomcat"
+      },
+      {
+        "value": "CUSTOM:CassetteHereICome"
+      },
+      {
+        "value": "CUSTOM:CassetteMyOrdinaryLife"
+      },
+      {
+        "value": "CUSTOM:CassetteNormalAlbum"
+      },
+      {
+        "value": "CUSTOM:CassetteOKULTRA"
+      },
+      {
+        "value": "CUSTOM:CassetteLoveMeNormally"
+      },
+      {
+        "value": "CUSTOM:CassetteScourge"
+      },
+      {
+        "value": "CUSTOM:CassetteCosmic"
+      },
+      {
+        "value": "CUSTOM:CassetteNightmare"
+      },
+      {
+        "value": "CUSTOM:CassetteBadEndTheater"
+      },
+      {
+        "value": "CUSTOM:WildSide"
+      },
+      {
+        "value": "CUSTOM:CassetteOliveBranch"
+      },
+      {
+        "value": "CUSTOM:CassetteAlpha"
+      },
+      {
+        "value": "CUSTOM:CassetteTOACW"
+      },
+      {
+        "value": "CUSTOM:CassettePigstep"
+      },
+      {
+        "value": "CUSTOM:CassetteRoseMary"
+      },
+      {
+        "value": "CUSTOM:CassetteVirginia"
+      },
+      {
+        "value": "CUSTOM:CassetteJungleDragon"
+      },
+      {
+        "value": "CUSTOM:CassetteSlimeGod"
+      },
+      {
+        "value": "CUSTOM:CassetteAllen"
+      },
+      {
+        "value": "CUSTOM:CassetteMax"
+      },
+      {
+        "value": "CUSTOM:CassetteLucas"
+      },
+      {
+        "value": "CUSTOM:CassetteFnaf1"
+      },
+      {
+        "value": "CUSTOM:CassetteWantYouGone"
+      },
+      {
+        "value": "CUSTOM:CassetteDoors"
+      },
+      {
+        "value": "CUSTOM:CassetteGuidingLight"
+      },
+      {
+        "value": "CUSTOM:CassetteUniversalCollapse"
+      },
+      {
+        "value": "CUSTOM:CassetteGhostsNStuff"
+      },
+      {
+        "value": "CUSTOM:CassetteRocky"
+      },
+      {
+        "value": "CUSTOM:CassetteStillAlive"
+      },
+      {
+        "value": "CUSTOM:CassetteBetty"
+      },
+      {
+        "value": "CUSTOM:CassetteBOW"
+      },
+      {
+        "value": "CUSTOM:CassetteBox15"
+      },
+      {
+        "value": "CUSTOM:CassetteGoodMorning"
+      },
+      {
+        "value": "CUSTOM:CassetteStronger"
+      },
+      {
+        "value": "CUSTOM:CassetteKratos"
+      },
+      {
+        "value": "CUSTOM:CassetteLoveLikeYou"
+      },
+      {
+        "value": "CUSTOM:CassetteThunder"
+      },
+      {
+        "value": "CUSTOM:CassetteAmericanBoy"
+      },
+      {
+        "value": "CUSTOM:CassetteHighwire"
+      },
+      {
+        "value": "CUSTOM:CassetteVirtualInsanity"
+      },
+      {
+        "value": "CUSTOM:CassetteFinalDuet"
+      },
+      {
+        "value": "CUSTOM:CassetteTulips"
+      },
+      {
+        "value": "CUSTOM:CassetteMyTime"
+      },
+      {
+        "value": "CUSTOM:CassetteDeathByGlamor"
+      },
+      {
+        "value": "CUSTOM:CassetteHopesAndDreams"
+      },
+      {
+        "value": "CUSTOM:CassetteToriel"
+      },
+      {
+        "value": "CUSTOM:CassetteScarletForest"
+      },
+      {
+        "value": "CUSTOM:CassetteAnarchyRainbow"
+      },
+      {
+        "value": "CUSTOM:Cassette2TimeZones"
+      },
+      {
+        "value": "CUSTOM:CassetteLetterToMyBrother"
+      },
+      {
+        "value": "CUSTOM:CassetteAfterDark"
+      },
+      {
+        "value": "CUSTOM:CassetteFMTTM"
+      },
+      {
+        "value": "CUSTOM:CassetteMonster"
+      },
+      {
+        "value": "CUSTOM:CassetteACybersWorld"
+      },
+      {
+        "value": "CUSTOM:Cassette1thot2thot"
+      },
+      {
+        "value": "CUSTOM:CassetteUndertale"
+      },
+      {
+        "value": "CUSTOM:CassetteCestLaVie"
+      },
+      {
+        "value": "CUSTOM:CassetteGoodbyeToAWorld"
+      },
+      {
+        "value": "CUSTOM:CassetteRejuvenescencia"
+      },
+      {
+        "value": "CUSTOM:CassetteWMTAO"
+      },
+      {
+        "value": "CUSTOM:CassetteGhost"
+      },
+      {
+        "value": "CUSTOM:CassetteParasite"
+      },
+      {
+        "value": "CUSTOM:CassetteIfWeFall"
+      },
+      {
+        "value": "CUSTOM:CassetteEisoptrophobia"
+      },
+      {
+        "value": "CUSTOM:CassetteSandcastleKingdoms"
+      },
+      {
+        "value": "CUSTOM:CassetteLeaveMeBehind"
+      },
+      {
+        "value": "CUSTOM:CassetteAlwaysComeBack"
+      },
+      {
+        "value": "CUSTOM:CassetteBattleBlock"
+      },
+      {
+        "value": "CUSTOM:CassetteSafeAndSound"
+      },
+      {
+        "value": "CUSTOM:CassettePuppeteer"
+      },
+      {
+        "value": "CUSTOM:CassetteKickBack"
+      },
+      {
+        "value": "CUSTOM:CassetteDreamland"
+      },
+      {
+        "value": "CUSTOM:CassetteIDontWannaBeFree"
+      },
+      {
+        "value": "CUSTOM:CassetteStolas"
+      },
+      {
+        "value": "CUSTOM:CassetteGym"
+      },
+      {
+        "value": "CUSTOM:CassetteTheLastGoodbye"
+      },
+      {
+        "value": "CUSTOM:CassetteIsland"
+      },
+      {
+        "value": "CUSTOM:CassetteVampire"
+      },
+      {
+        "value": "CUSTOM:CassetteMattel"
+      },
+      {
+        "value": "CUSTOM:CassetteG"
+      },
+      {
+        "value": "CUSTOM:CassetteRasputin"
+      },
+      {
+        "value": "CUSTOM:CassetteAmongus"
+      },
+      {
+        "value": "CUSTOM:CassetteFurrymon"
+      },
+      {
+        "value": "CUSTOM:CassetteLikeThat"
+      },
+      {
+        "value": "CUSTOM:CassetteLightsabers"
+      },
+      {
+        "value": "CUSTOM:CassettePizzaTime"
+      },
+      {
+        "value": "CUSTOM:Airpod"
+      },
+      {
+        "value": "CUSTOM:CassetteASAFEWORLD"
+      },
+      {
+        "value": "CUSTOM:CassetteSafeAndCYBER"
+      },
+      {
+        "value": "CUSTOM:CassetteAddict"
+      },
+      {
+        "value": "CUSTOM:CassetteSimoon"
+      },
+      {
+        "value": "CUSTOM:CassetteGodRace"
+      },
+      {
+        "value": "CUSTOM:CassetteAnemoia"
+      },
+      {
+        "value": "CUSTOM:CassetteWolfAndRabbit"
+      },
+      {
+        "value": "CUSTOM:CassetteSteamGardens"
+      },
+      {
+        "value": "CUSTOM:CassetteDrunk"
+      },
+      {
+        "value": "CUSTOM:CassetteDJMM"
+      },
+      {
+        "value": "CUSTOM:CassetteFBC"
+      },
+      {
+        "value": "CUSTOM:CassetteArchetype"
+      },
+      {
+        "value": "CUSTOM:CassetteBarbie"
+      },
+      {
+        "value": "CUSTOM:CassetteCalifornia"
+      },
+      {
+        "value": "CUSTOM:CassetteEternalHorizons"
+      },
+      {
+        "value": "CUSTOM:CassetteTOTTFIY"
+      },
+      {
+        "value": "CUSTOM:CassetteOOT"
+      },
+      {
+        "value": "CUSTOM:CassetteToxicCoffee"
+      },
+      {
+        "value": "CUSTOM:CassetteBakaMitai"
+      },
+      {
+        "value": "CUSTOM:CassetteIJAM"
+      },
+      {
+        "value": "CUSTOM:CassetteDanTDM"
+      },
+      {
+        "value": "CUSTOM:CassetteScienceBlaster"
+      },
+      {
+        "value": "CUSTOM:CassetteMOV"
+      },
+      {
+        "value": "CUSTOM:HandsomeDevil"
+      },
+      {
+        "value": "CUSTOM:CassetteBox16"
+      },
+      {
+        "value": "CUSTOM:CassetteRoxanne"
+      },
+      {
+        "value": "CUSTOM:CassetteWIGGLECORE"
+      },
+      {
+        "value": "CUSTOM:CassetteBTD5"
+      },
+      {
+        "value": "Items.BREAD"
+      },
+      {
+        "value": "Blocks.AIR"
+      },
+      {
+        "value": "CUSTOM:CassetteGravity"
+      },
+      {
+        "value": "CUSTOM:CassettePigstepJazz"
+      },
+      {
+        "value": "CUSTOM:CassetteHereICome2"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "tag_cassette",
+    "namespace": "forge"
+  }
+}

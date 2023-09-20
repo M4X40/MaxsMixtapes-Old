@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Like That",
+    "texture": "like_that",
+    "description": "Fox Stevenson - Like That",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"All told i got too bold, heart of gold\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:like_that"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

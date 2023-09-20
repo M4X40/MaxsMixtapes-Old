@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Sunset Rose Cocktail",
+    "texture": "rocky_cassete",
+    "description": "M Gewehr - Sunset Rose Cocktail",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"As wild waters, fast and free, It's your true name: Mississippi\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:sunset_rose_cocktail"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

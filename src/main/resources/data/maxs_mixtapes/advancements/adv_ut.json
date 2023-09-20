@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "adv_ut": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "maxs_mixtapes:cassette_undertale"
+            ],
+            "count": {
+              "min": 1,
+              "max": 25000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

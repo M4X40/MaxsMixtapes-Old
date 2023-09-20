@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "2 Time Zones",
+    "texture": "timezones",
+    "description": "bbno$ - 2 Time Zones",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Because the clock idea was too good to pass up.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:two_time_zones"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "mos thoser",
+    "texture": "highwire",
+    "description": "Food House - mos thoser",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Cause some mayhem out there~\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:mos_thoser"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

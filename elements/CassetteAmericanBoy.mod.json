@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "American Boy",
+    "texture": "garnet",
+    "description": "Estelle - American Boy",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Hey! Don't mess with his funky flow!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:american_boy"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

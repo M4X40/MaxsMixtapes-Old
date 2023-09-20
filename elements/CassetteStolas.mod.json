@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "You Will Be Okay",
+    "texture": "you_will_be_okay",
+    "description": "Sam Haft - You Will Be Okay",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"I will never be far away from my special little starfire\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:ywbo"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

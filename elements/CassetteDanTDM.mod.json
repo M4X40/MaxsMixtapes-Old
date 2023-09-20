@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Street Fighter [Remix]",
+    "texture": "dantdm",
+    "description": "Antoine Lavenant - Street Fighter",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Hey everyone! Dan here from The Diamond Minecart\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:street_fighter"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

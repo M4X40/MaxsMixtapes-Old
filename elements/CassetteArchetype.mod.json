@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Archetype",
+    "texture": "lightning_knight",
+    "description": "Helix6 - Archetype",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"I like these calm moments before the storm\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:archetype"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

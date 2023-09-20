@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "...well, better than the alternative",
+    "texture": "normal_album",
+    "description": "Will Wood - ...well, better than the alternative",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Baby could you play along with me?\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:wbtta"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

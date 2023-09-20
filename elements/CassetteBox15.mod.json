@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "BOX 15",
+    "texture": "monokuma",
+    "description": "Masifumi Takada - BOX 15",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Upupu~\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:box15"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Dreamland",
+    "texture": "dreamland",
+    "description": "Fox Stevenson - Dreamland",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Does everybody live in a dreamland?\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:dreamland"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

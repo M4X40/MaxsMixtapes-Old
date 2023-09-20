@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Good Morning",
+    "texture": "good_morning",
+    "description": "Kanye West - Good Morning",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"You may be talented, but you’re not Kanye West\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:good_morning"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

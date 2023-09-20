@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "maxs_mixtapes:cassette_dan_tdm"
+    },
+    "title": {
+      "translate": "advancements.adv_youtubers.title"
+    },
+    "description": {
+      "translate": "advancements.adv_youtubers.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_youtubers": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "maxs_mixtapes:entities/ltyt"
+    ]
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

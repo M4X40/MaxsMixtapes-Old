@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Baka Mitai",
+    "texture": "baka_mitai",
+    "description": "Kazuma Kiryu - Baka Mitai",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"You think of the yakuza as a way to die. To me... being yakuza... It's a way to live.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:bm"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

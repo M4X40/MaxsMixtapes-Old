@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "A Doll's House",
+    "texture": "viginia_tape",
+    "description": " The Living Tombstone - A Doll's House",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"It's okay... I see you.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:a_dolls_house"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

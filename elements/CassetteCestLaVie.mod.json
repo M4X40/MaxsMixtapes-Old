@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "C'est La Vie",
+    "texture": "cest_la_vie",
+    "description": "Yung Gravy - C'est La Vie",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "That's life; such is life"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:cest_la_vie"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

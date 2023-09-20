@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "D.J. Music Man",
+    "texture": "djmusicman",
+    "description": "Allen Simpson - D.J. Music Man",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "Max has held the Security Breach DJMM World Record since 10/29/22"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:djmm"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

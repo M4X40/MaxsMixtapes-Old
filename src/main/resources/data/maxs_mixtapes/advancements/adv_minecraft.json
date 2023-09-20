@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "maxs_mixtapes:cassette_alpha"
+    },
+    "title": {
+      "translate": "advancements.adv_minecraft.title"
+    },
+    "description": {
+      "translate": "advancements.adv_minecraft.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_minecraft": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "maxs_mixtapes:entities/ltmc"
+    ]
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "maxs_mixtapes:cassette_undertale"
+    },
+    "title": {
+      "translate": "advancements.adv_toby_fox.title"
+    },
+    "description": {
+      "translate": "advancements.adv_toby_fox.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_toby_fox": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "maxs_mixtapes:entities/lttf"
+    ]
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

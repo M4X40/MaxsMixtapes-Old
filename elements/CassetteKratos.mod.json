@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "God Of War",
+    "texture": "kratos",
+    "description": "Bear McCreary - 1. God of War",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Death can have me when it earns me.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:god_of_war"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

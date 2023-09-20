@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Still Alive",
+    "texture": "still_alive",
+    "description": "Jonathan Coultan - Still Alive",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "The cake is a lie"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:still_alive"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

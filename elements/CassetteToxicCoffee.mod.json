@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Toxic Coffee",
+    "texture": "discord",
+    "description": "Aesop Rock - Toxic Coffee",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Max after making the mod bootloop:\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:toxic_coffee"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

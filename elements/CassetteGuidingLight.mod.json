@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Guiding Light",
+    "texture": "guiding_light",
+    "description": "LSplash - Guiding Light",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"You were almost there!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:guiding_light"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

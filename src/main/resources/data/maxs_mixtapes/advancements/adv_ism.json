@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "maxs_mixtapes:cassette_agent_rainbow"
+    },
+    "title": {
+      "translate": "advancements.adv_ism.title"
+    },
+    "description": {
+      "translate": "advancements.adv_ism.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_ism": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "maxs_mixtapes:entities/mm_ism"
+    ]
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

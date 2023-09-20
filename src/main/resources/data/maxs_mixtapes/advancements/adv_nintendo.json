@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "maxs_mixtapes:cassette_steam_gardens"
+    },
+    "title": {
+      "translate": "advancements.adv_nintendo.title"
+    },
+    "description": {
+      "translate": "advancements.adv_nintendo.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_nintendo": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "maxs_mixtapes:entities/ltntd"
+    ]
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

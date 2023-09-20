@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Buckle My Phonk",
+    "texture": "buckle_tape",
+    "description": "JXDEMANE - BUCKLE MY PHONK",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"OHOHO THAT IS SO FIRE DUDE\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:buckle_my_phonk"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

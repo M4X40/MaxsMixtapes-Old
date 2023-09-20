@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "maxs_mixtapes:cassette_good_morning"
+    },
+    "title": {
+      "translate": "advancements.adv_kanye.title"
+    },
+    "description": {
+      "translate": "advancements.adv_kanye.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_kanye": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "maxs_mixtapes:entities/ltkanye"
+    ]
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

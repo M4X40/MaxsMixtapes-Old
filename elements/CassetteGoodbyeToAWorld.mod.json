@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Goodbye to a World",
+    "texture": "goodbye_to_a_world",
+    "description": "Porter Robinson - Goodbye to A World",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "Remember me."
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:gtaw"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

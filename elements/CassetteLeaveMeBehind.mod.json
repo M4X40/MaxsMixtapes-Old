@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Leave Me Behind",
+    "texture": "vanny_mommy",
+    "description": "NateWantsToBattle - Leave Me Behind",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Before I close the book, I always skip to the end.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:leave_me_behind"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

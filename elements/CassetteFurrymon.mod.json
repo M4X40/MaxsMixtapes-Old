@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Furrymon",
+    "texture": "pokeballs",
+    "description": "The Chalkeaters - Furrymon",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"zweis gonna be so pissed at me\" (max is too)"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:furrymon"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

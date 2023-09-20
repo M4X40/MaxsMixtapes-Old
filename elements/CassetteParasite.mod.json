@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Parasite",
+    "texture": "parasite",
+    "description": "DAGames - Parasite",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Don't you wanna be free?\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:parasite"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

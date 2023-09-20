@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Whatever It Takes",
+    "texture": "rosemary_tape",
+    "description": "The Living Tombstone - Whatever It Takes",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Power in the unconscious\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:whatever_it_takes"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

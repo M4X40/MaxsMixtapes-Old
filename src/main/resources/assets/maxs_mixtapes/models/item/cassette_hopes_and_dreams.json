@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "maxs_mixtapes:items/field_of_hopes_and_dreams"
+  }
+}

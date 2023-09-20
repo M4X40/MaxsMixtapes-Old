@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Scarlet Forest",
+    "texture": "scarlet_forest",
+    "description": "Toby Fox - Scarlet Forest",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"...2 minutes in jail and you've already started eating moss.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:scarlet_forest"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

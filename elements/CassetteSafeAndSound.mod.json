@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Safe And Sound",
+    "texture": "safe_and_sound",
+    "description": "Capital Cities - Safe and Sound",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"if my childhood had end credits\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:safeandsound"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

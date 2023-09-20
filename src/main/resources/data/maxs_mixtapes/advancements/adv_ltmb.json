@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "adv_ltmb": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "maxs_mixtapes:cassette_letter_to_my_brother"
+            ],
+            "count": {
+              "min": 1,
+              "max": 25000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

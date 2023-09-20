@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "1 Thot 2 Thot",
+    "texture": "1thot2thot",
+    "description": "Yung Gravy - 1 Thot 2 Thot",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Because meme cassette quota\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:ottt"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

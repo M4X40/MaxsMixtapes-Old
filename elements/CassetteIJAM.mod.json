@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "I'm Just a Memer",
+    "texture": "twitch",
+    "description": "Koaster - I'm Just a Memer",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "feelsstrongman"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:ijam"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

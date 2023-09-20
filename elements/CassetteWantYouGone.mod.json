@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Want You Gone",
+    "texture": "frankenturret",
+    "description": "Jonathan Coultan - Want You Gone",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"I AM NOT A MORON\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:want_you_gone"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

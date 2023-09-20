@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "my time",
+    "texture": "omori",
+    "description": "bo en - my time",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "Oyasumi"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:my_time"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Rivers is a Vampire",
+    "texture": "rivers_is_a_vampire",
+    "description": "Bear Ghost - Rivers is a Vampire",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "Gimme the music, this beat is too sick, I wanna drink til I get stupid!"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:riav"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

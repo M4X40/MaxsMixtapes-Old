@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Field of Hopes and Dreams",
+    "texture": "field_of_hopes_and_dreams",
+    "description": "Toby Fox - Field of Hopes and Dreams",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Quiet people piss me off...\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:fohad"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "After Dark",
+    "texture": "after_dark",
+    "description": "Mr. Kitty - After Dark",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "Rome's a simp"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:after_dark"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

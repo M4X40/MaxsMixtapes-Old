@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Anarchy Rainbow",
+    "texture": "anarchy_rainbow",
+    "description": "Deep Cut - Anarchy Rainbow",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"You lip-sync, we drip ink\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:anarchy_rainbow"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

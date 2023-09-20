@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Steam Gardens",
+    "texture": "mario",
+    "description": "Nintendo - Steam Gardens",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Now just keep sucking on it until we're all the way to the nut\" - Smallant 2022"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:sg"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

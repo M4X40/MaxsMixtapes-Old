@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Is It Me?",
+    "texture": "max_tape",
+    "description": "The Living Tombstone - Is It Me?",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Oh yeah?! Try and stop me!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:is_it_me"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

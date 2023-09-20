@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "adv_acb": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "maxs_mixtapes:cassette_always_come_back"
+            ],
+            "count": {
+              "min": 1,
+              "max": 25000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "maxs_mixtapes:adv_init"
+}

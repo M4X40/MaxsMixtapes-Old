@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Safe And CYBER???",
+    "texture": "safe_and_cyber",
+    "description": "SilvaGunner - Safe And CYBER???",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "I love Capital Cities..."
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:sac"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

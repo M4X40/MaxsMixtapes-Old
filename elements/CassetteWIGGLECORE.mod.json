@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "WIGGLECORE",
+    "texture": "onyx",
+    "description": "nelward - WIGGLECORE",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"I dodged\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:wigglecore"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

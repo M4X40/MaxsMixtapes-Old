@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Pizza Time",
+    "texture": "pizza_cunt",
+    "description": "Lame Genie - Pizza Time",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "Very..  A    N  I  C  E!!!"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:pizza_time"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

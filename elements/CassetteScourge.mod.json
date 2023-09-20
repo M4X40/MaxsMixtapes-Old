@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Scourge of The Universe",
+    "texture": "devourer_of_gods_tape",
+    "description": "DM DOKURO - Scourge of The Universe",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Dont get cocky!\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:sotu"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

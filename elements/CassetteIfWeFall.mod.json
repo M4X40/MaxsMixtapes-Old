@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Humans",
+    "texture": "humans",
+    "description": "KLOUD - Humans",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Blame it on the humans.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:if_we_fall"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Cosmic",
+    "texture": "cosmic",
+    "description": "Avenged Sevenfold - Cosmic",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "None too far as we chase through the stars beyond forever, I'll follow you"
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:cosmic"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

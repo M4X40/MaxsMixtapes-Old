@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Fly Me To The Moon",
+    "texture": "weast",
+    "description": "Frank Sinatra - Fly Me To The Moon",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "specialInfo": [
+      "\"Shoot, that was my last quarter.\""
+    ],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:fmttm"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

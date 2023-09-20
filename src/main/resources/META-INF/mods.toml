@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="maxs_mixtapes"
+version="2.2.0"
+displayName="Max's Mixtapes"
+credits="M4X4, Thurman Okami"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/maxs-mixtapes/"
+logoFile="logo.png"
+authors="M4X4, Thurman Okami"
+description="121 cassette tapes with unique songs, sprites, and crafting!"
+
+[[dependencies.maxs_mixtapes]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
