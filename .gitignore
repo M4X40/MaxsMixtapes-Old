@@ -8,6 +8,7 @@ build/
 
 # MCreator workspace
 .mcreator/
+.elements/
 
 # Minecraft client/server files
 run/
@@ -15,6 +16,8 @@ run/
 # MacOS system files
 .DS_STORE
 
-# Other Files (In Eclipse)
+# Other Files
 .classpath
 .project
+.mcreator
+mcreator.gradle
