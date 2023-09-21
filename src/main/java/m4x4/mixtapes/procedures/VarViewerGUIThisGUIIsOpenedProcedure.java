@@ -32,8 +32,6 @@ public class VarViewerGUIThisGUIIsOpenedProcedure {
 				_tf.setValue(("" + (entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).orElse(new MaxsMixtapesModVariables.PlayerVariables())).SwapSlotsOnOpen));
 			if (guistate.get("text:StopCountTB") instanceof EditBox _tf)
 				_tf.setValue(("" + (entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).orElse(new MaxsMixtapesModVariables.PlayerVariables())).StoppedCount));
-			if (guistate.get("text:SCOTB") instanceof EditBox _tf)
-				_tf.setValue(("" + (entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).orElse(new MaxsMixtapesModVariables.PlayerVariables())).StoppedCountOld));
 		});
 	}
 }

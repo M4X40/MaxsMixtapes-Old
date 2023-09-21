@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "insoundmind_album",
+    "texture": "remnant",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
@@ -26,7 +26,9 @@
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
-    "specialInfo": [],
+    "specialInfo": [
+      "\"Get ready for unstoppable fu-u-u-u-u-un, fun, fun.”"
+    ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,

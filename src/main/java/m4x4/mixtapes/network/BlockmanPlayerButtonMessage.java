@@ -72,7 +72,7 @@ public class BlockmanPlayerButtonMessage {
 		}
 		if (buttonID == 1) {
 
-			BlockmanProcPlayProcedure.execute(world, x, y, z, entity);
+			BlockmanProcPlayProcedure.execute(world, x, y, z, entity, guistate);
 		}
 		if (buttonID == 2) {
 

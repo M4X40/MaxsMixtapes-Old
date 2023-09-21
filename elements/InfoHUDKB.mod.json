@@ -1,0 +1,12 @@
+{
+  "_fv": 47,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "X",
+    "keyBindingName": "Info HUD",
+    "keyBindingCategoryKey": "mod",
+    "onKeyPressed": {
+      "name": "InfoHUDKBOnKeyPressed"
+    }
+  }
+}

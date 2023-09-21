@@ -1,0 +1,46 @@
+{
+  "_fv": 47,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "info_hudbg.png",
+          "use1Xscale": false,
+          "x": -3,
+          "y": 215
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_info_hud_text_proc",
+          "text": {
+            "fixedValue": "",
+            "name": "InfoHUDTextProc"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 15,
+          "y": 224
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "InfoHUDDisplayLogic"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

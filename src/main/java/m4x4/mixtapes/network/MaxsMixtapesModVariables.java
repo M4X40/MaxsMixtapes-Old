@@ -90,6 +90,7 @@ public class MaxsMixtapesModVariables {
 			clone.BlockmanLengthSlot59 = original.BlockmanLengthSlot59;
 			clone.BlockmanLengthSlot60 = original.BlockmanLengthSlot60;
 			clone.BlockmanMSCReturn = original.BlockmanMSCReturn;
+			clone.InfoHUDEnabled = original.InfoHUDEnabled;
 			if (!event.isWasDeath()) {
 				clone.BlockmanError = original.BlockmanError;
 				clone.BlockmanIsLooped = original.BlockmanIsLooped;
@@ -103,9 +104,11 @@ public class MaxsMixtapesModVariables {
 				clone.BlockmanQueueCurrentSlot = original.BlockmanQueueCurrentSlot;
 				clone.StoppedCount = original.StoppedCount;
 				clone.BlockmanPlayButtonUsed = original.BlockmanPlayButtonUsed;
-				clone.StoppedCountOld = original.StoppedCountOld;
 				clone.SwapSlotsOnOpen = original.SwapSlotsOnOpen;
 				clone.LastSwappedSlot = original.LastSwappedSlot;
+				clone.BlockmanCurrentTick = original.BlockmanCurrentTick;
+				clone.BlockmanRemainingTime = original.BlockmanRemainingTime;
+				clone.BlockmanRemainingTicks = original.BlockmanRemainingTicks;
 			}
 		}
 	}
@@ -177,9 +180,12 @@ public class MaxsMixtapesModVariables {
 		public double BlockmanLengthSlot60 = 0;
 		public boolean BlockmanMSCReturn = false;
 		public boolean BlockmanPlayButtonUsed = false;
-		public double StoppedCountOld = 0;
 		public boolean SwapSlotsOnOpen = false;
 		public double LastSwappedSlot = 51.0;
+		public double BlockmanCurrentTick = 0;
+		public String BlockmanRemainingTime = "\" Not Playing\"";
+		public double BlockmanRemainingTicks = 0;
+		public boolean InfoHUDEnabled = false;
 
 		public void syncPlayerVariables(Entity entity) {
 			if (entity instanceof ServerPlayer serverPlayer)
@@ -224,9 +230,12 @@ public class MaxsMixtapesModVariables {
 			nbt.putDouble("BlockmanLengthSlot60", BlockmanLengthSlot60);
 			nbt.putBoolean("BlockmanMSCReturn", BlockmanMSCReturn);
 			nbt.putBoolean("BlockmanPlayButtonUsed", BlockmanPlayButtonUsed);
-			nbt.putDouble("StoppedCountOld", StoppedCountOld);
 			nbt.putBoolean("SwapSlotsOnOpen", SwapSlotsOnOpen);
 			nbt.putDouble("LastSwappedSlot", LastSwappedSlot);
+			nbt.putDouble("BlockmanCurrentTick", BlockmanCurrentTick);
+			nbt.putString("BlockmanRemainingTime", BlockmanRemainingTime);
+			nbt.putDouble("BlockmanRemainingTicks", BlockmanRemainingTicks);
+			nbt.putBoolean("InfoHUDEnabled", InfoHUDEnabled);
 			return nbt;
 		}
 
@@ -268,9 +277,12 @@ public class MaxsMixtapesModVariables {
 			BlockmanLengthSlot60 = nbt.getDouble("BlockmanLengthSlot60");
 			BlockmanMSCReturn = nbt.getBoolean("BlockmanMSCReturn");
 			BlockmanPlayButtonUsed = nbt.getBoolean("BlockmanPlayButtonUsed");
-			StoppedCountOld = nbt.getDouble("StoppedCountOld");
 			SwapSlotsOnOpen = nbt.getBoolean("SwapSlotsOnOpen");
 			LastSwappedSlot = nbt.getDouble("LastSwappedSlot");
+			BlockmanCurrentTick = nbt.getDouble("BlockmanCurrentTick");
+			BlockmanRemainingTime = nbt.getString("BlockmanRemainingTime");
+			BlockmanRemainingTicks = nbt.getDouble("BlockmanRemainingTicks");
+			InfoHUDEnabled = nbt.getBoolean("InfoHUDEnabled");
 		}
 	}
 
@@ -331,9 +343,12 @@ public class MaxsMixtapesModVariables {
 					variables.BlockmanLengthSlot60 = message.data.BlockmanLengthSlot60;
 					variables.BlockmanMSCReturn = message.data.BlockmanMSCReturn;
 					variables.BlockmanPlayButtonUsed = message.data.BlockmanPlayButtonUsed;
-					variables.StoppedCountOld = message.data.StoppedCountOld;
 					variables.SwapSlotsOnOpen = message.data.SwapSlotsOnOpen;
 					variables.LastSwappedSlot = message.data.LastSwappedSlot;
+					variables.BlockmanCurrentTick = message.data.BlockmanCurrentTick;
+					variables.BlockmanRemainingTime = message.data.BlockmanRemainingTime;
+					variables.BlockmanRemainingTicks = message.data.BlockmanRemainingTicks;
+					variables.InfoHUDEnabled = message.data.InfoHUDEnabled;
 				}
 			});
 			context.setPacketHandled(true);

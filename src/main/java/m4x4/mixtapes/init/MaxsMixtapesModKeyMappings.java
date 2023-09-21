@@ -16,6 +16,7 @@ import net.minecraft.client.Minecraft;
 import net.minecraft.client.KeyMapping;
 
 import m4x4.mixtapes.network.TestKBMessage;
+import m4x4.mixtapes.network.InfoHUDKBMessage;
 import m4x4.mixtapes.network.GgMessage;
 import m4x4.mixtapes.MaxsMixtapesMod;
 
@@ -47,11 +48,25 @@ public class MaxsMixtapesModKeyMappings {
 			isDownOld = isDown;
 		}
 	};
+	public static final KeyMapping INFO_HUDKB = new KeyMapping("key.maxs_mixtapes.info_hudkb", GLFW.GLFW_KEY_X, "key.categories.mod") {
+		private boolean isDownOld = false;
+
+		@Override
+		public void setDown(boolean isDown) {
+			super.setDown(isDown);
+			if (isDownOld != isDown && isDown) {
+				MaxsMixtapesMod.PACKET_HANDLER.sendToServer(new InfoHUDKBMessage(0, 0));
+				InfoHUDKBMessage.pressAction(Minecraft.getInstance().player, 0, 0);
+			}
+			isDownOld = isDown;
+		}
+	};
 
 	@SubscribeEvent
 	public static void registerKeyMappings(RegisterKeyMappingsEvent event) {
 		event.register(TEST_KB);
 		event.register(GG);
+		event.register(INFO_HUDKB);
 	}
 
 	@Mod.EventBusSubscriber({Dist.CLIENT})
@@ -61,6 +76,7 @@ public class MaxsMixtapesModKeyMappings {
 			if (Minecraft.getInstance().screen == null) {
 				TEST_KB.consumeClick();
 				GG.consumeClick();
+				INFO_HUDKB.consumeClick();
 			}
 		}
 	}

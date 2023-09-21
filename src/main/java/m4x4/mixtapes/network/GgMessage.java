@@ -52,7 +52,7 @@ public class GgMessage {
 			return;
 		if (type == 0) {
 
-			GgOnKeyPressedProcedure.execute(world, entity);
+			GgOnKeyPressedProcedure.execute(entity);
 		}
 	}
 

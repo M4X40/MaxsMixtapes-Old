@@ -14,7 +14,7 @@ import m4x4.mixtapes.item.YeezysItem;
 import m4x4.mixtapes.item.WildSideItem;
 import m4x4.mixtapes.item.ViolinItem;
 import m4x4.mixtapes.item.RemnantItem;
-import m4x4.mixtapes.item.RatsItem;
+import m4x4.mixtapes.item.NormalPillsItem;
 import m4x4.mixtapes.item.KnobItem;
 import m4x4.mixtapes.item.JoyConsItem;
 import m4x4.mixtapes.item.HandsomeDevilItem;
@@ -157,7 +157,6 @@ public class MaxsMixtapesModItems {
 	public static final RegistryObject<Item> AIRPOD = REGISTRY.register("airpod", () -> new AirpodItem());
 	public static final RegistryObject<Item> REMNANT = REGISTRY.register("remnant", () -> new RemnantItem());
 	public static final RegistryObject<Item> KNOB = REGISTRY.register("knob", () -> new KnobItem());
-	public static final RegistryObject<Item> RATS = REGISTRY.register("rats", () -> new RatsItem());
 	public static final RegistryObject<Item> JOY_CONS = REGISTRY.register("joy_cons", () -> new JoyConsItem());
 	public static final RegistryObject<Item> DRAWING_TABLET = REGISTRY.register("drawing_tablet", () -> new DrawingTabletItem());
 	public static final RegistryObject<Item> VIOLIN = REGISTRY.register("violin", () -> new ViolinItem());
@@ -286,4 +285,5 @@ public class MaxsMixtapesModItems {
 	public static final RegistryObject<Item> CASSETTE_ALPHA = REGISTRY.register("cassette_alpha", () -> new CassetteAlphaItem());
 	public static final RegistryObject<Item> CASSETTE_MOV = REGISTRY.register("cassette_mov", () -> new CassetteMOVItem());
 	public static final RegistryObject<Item> HANDSOME_DEVIL = REGISTRY.register("handsome_devil", () -> new HandsomeDevilItem());
+	public static final RegistryObject<Item> NORMAL_PILLS = REGISTRY.register("normal_pills", () -> new NormalPillsItem());
 }

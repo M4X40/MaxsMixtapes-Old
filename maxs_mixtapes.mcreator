@@ -33,6 +33,10 @@
             "type": "entity"
           },
           {
+            "name": "guistate",
+            "type": "map"
+          },
+          {
             "name": "x",
             "type": "number"
           },
@@ -4962,6 +4966,10 @@
             "type": "entity"
           },
           {
+            "name": "guistate",
+            "type": "map"
+          },
+          {
             "name": "x",
             "type": "number"
           },
@@ -5092,21 +5100,6 @@
         "files": [
           "src/main/java/m4x4/mixtapes/item/KnobItem.java",
           "src/main/resources/assets/maxs_mixtapes/models/item/knob.json"
-        ]
-      },
-      "path": "~/Items/Crafting Items/U2 Items"
-    },
-    {
-      "name": "Rats",
-      "type": "item",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "rats",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/maxs_mixtapes/models/item/rats.json",
-          "src/main/java/m4x4/mixtapes/item/RatsItem.java"
         ]
       },
       "path": "~/Items/Crafting Items/U2 Items"
@@ -5255,7 +5248,7 @@
           "src/main/java/m4x4/mixtapes/network/VarViewerGUIButtonMessage.java"
         ]
       },
-      "path": "~/GUI"
+      "path": "~/GUI/VarViewer"
     },
     {
       "name": "VarViewerGUIThisGUIIsOpened",
@@ -5283,7 +5276,7 @@
           }
         ]
       },
-      "path": "~/GUI/VarViewerProcs"
+      "path": "~/GUI/VarViewer"
     },
     {
       "name": "SetButton",
@@ -5307,7 +5300,7 @@
           }
         ]
       },
-      "path": "~/GUI/VarViewerProcs"
+      "path": "~/GUI/VarViewer"
     },
     {
       "name": "TestKBOnKeyPressed",
@@ -5398,10 +5391,6 @@
           {
             "name": "entity",
             "type": "entity"
-          },
-          {
-            "name": "world",
-            "type": "world"
           }
         ]
       },
@@ -5628,6 +5617,246 @@
         "files": []
       },
       "path": "~/Misc"
+    },
+    {
+      "name": "BlockmanProcLoopQueueHandler",
+      "type": "procedure",
+      "sortid": 372,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockman_proc_loop_queue_handler",
+      "metadata": {
+        "files": [
+          "src/main/java/m4x4/mixtapes/procedures/BlockmanProcLoopQueueHandlerProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "guistate",
+            "type": "map"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Scripts"
+    },
+    {
+      "name": "ReloadButton",
+      "type": "procedure",
+      "sortid": 373,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reload_button",
+      "metadata": {
+        "files": [
+          "src/main/java/m4x4/mixtapes/procedures/ReloadButtonProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "guistate",
+            "type": "map"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/GUI/VarViewer"
+    },
+    {
+      "name": "InfoHUDBG",
+      "type": "gui",
+      "sortid": 374,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "info_hudbg",
+      "metadata": {
+        "files": [
+          "src/main/java/m4x4/mixtapes/world/inventory/InfoHUDBGMenu.java",
+          "src/main/java/m4x4/mixtapes/client/gui/InfoHUDBGScreen.java"
+        ]
+      },
+      "path": "~/GUI/InfoHUD"
+    },
+    {
+      "name": "GetTimeFromLengthProc",
+      "type": "procedure",
+      "sortid": 375,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "get_time_from_length_proc",
+      "metadata": {
+        "return_type": "string",
+        "files": [
+          "src/main/java/m4x4/mixtapes/procedures/GetTimeFromLengthProcProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/GUI/InfoHUD"
+    },
+    {
+      "name": "InfoHUDTextProc",
+      "type": "procedure",
+      "sortid": 376,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "info_hud_text_proc",
+      "metadata": {
+        "return_type": "string",
+        "files": [
+          "src/main/java/m4x4/mixtapes/procedures/InfoHUDTextProcProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/GUI/InfoHUD"
+    },
+    {
+      "name": "InfoHUD",
+      "type": "overlay",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "info_hud",
+      "metadata": {
+        "files": [
+          "src/main/java/m4x4/mixtapes/client/screens/InfoHUDOverlay.java"
+        ]
+      },
+      "path": "~/GUI/InfoHUD"
+    },
+    {
+      "name": "NormalPills",
+      "type": "item",
+      "sortid": 377,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "normal_pills",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/maxs_mixtapes/models/item/normal_pills.json",
+          "src/main/java/m4x4/mixtapes/item/NormalPillsItem.java"
+        ]
+      },
+      "path": "~/Items/Crafting Items/U2 Items"
+    },
+    {
+      "name": "GetRemainingTime",
+      "type": "procedure",
+      "sortid": 378,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "get_remaining_time",
+      "metadata": {
+        "files": [
+          "src/main/java/m4x4/mixtapes/procedures/GetRemainingTimeProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/GUI/InfoHUD"
+    },
+    {
+      "name": "InfoHUDKBOnKeyPressed",
+      "type": "procedure",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "info_hudkb_on_key_pressed",
+      "metadata": {
+        "files": [
+          "src/main/java/m4x4/mixtapes/procedures/InfoHUDKBOnKeyPressedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/GUI/InfoHUD"
+    },
+    {
+      "name": "InfoHUDKB",
+      "type": "keybind",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "info_hudkb",
+      "metadata": {
+        "files": [
+          "src/main/java/m4x4/mixtapes/network/InfoHUDKBMessage.java"
+        ]
+      },
+      "path": "~/GUI/InfoHUD"
+    },
+    {
+      "name": "InfoHUDDisplayLogic",
+      "type": "procedure",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "info_hud_display_logic",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/m4x4/mixtapes/procedures/InfoHUDDisplayLogicProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/GUI/InfoHUD"
     }
   ],
   "variable_elements": [
@@ -5848,12 +6077,6 @@
       "value": "false"
     },
     {
-      "name": "StoppedCountOld",
-      "type": "number",
-      "scope": "player_lifetime",
-      "value": "0"
-    },
-    {
       "name": "SwapSlotsOnOpen",
       "type": "logic",
       "scope": "player_lifetime",
@@ -5864,6 +6087,30 @@
       "type": "number",
       "scope": "player_lifetime",
       "value": "51.0"
+    },
+    {
+      "name": "BlockmanCurrentTick",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
+    },
+    {
+      "name": "BlockmanRemainingTime",
+      "type": "string",
+      "scope": "player_lifetime",
+      "value": "\" Not Playing\""
+    },
+    {
+      "name": "BlockmanRemainingTicks",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
+    },
+    {
+      "name": "InfoHUDEnabled",
+      "type": "logic",
+      "scope": "player_persistent",
+      "value": "false"
     }
   ],
   "sound_elements": [
@@ -7840,8 +8087,8 @@
       "item.maxs_mixtapes.cassette_agent_rainbow": "Here Comes A Savior",
       "subtitles.a_safe_world": "A SAFE WORLD",
       "advancements.adv_ltmb.descr": "logic advancement",
-      "advancements.adv_hic.descr": "logic advancement",
       "subtitles.mattel": "Mattel",
+      "advancements.adv_hic.descr": "logic advancement",
       "item.maxs_mixtapes.cassette_wmtao.desc": "Lúcio - We Move Together as One",
       "subtitles.here_i_come_2": "HERE I COME 2",
       "advancements.adv_eisop.title": "LogicAdv",
@@ -8063,6 +8310,7 @@
       "subtitles.good_morning_stereo": "Good Morning",
       "subtitles.stronger_stereo": "Stronger",
       "advancements.adv_addict.descr": "logic advancement",
+      "item.maxs_mixtapes.normal_pills": "The Normal Pills",
       "subtitles.final_duet": "Final Duet",
       "subtitles.universal_collapse_stereo": "Universal Collapse",
       "advancements.adv_acd.descr": "Gaming\u0027s most violent duo",
@@ -8111,6 +8359,7 @@
       "item.maxs_mixtapes.cassette_guiding_light.desc": "LSplash - Guiding Light",
       "gui.maxs_mixtapes.blockman_player.label_queue": "Queue",
       "advancements.adv_stronger.descr": "logic advancement",
+      "gui.maxs_mixtapes.var_viewer_gui.button_reload": "Reload",
       "subtitles.love_me_normally_stereo": "Love, Me Normally",
       "item.maxs_mixtapes.cassette_bow.desc": "MFS - BOW",
       "item.maxs_mixtapes.cassette_pizza_time": "Pizza Time",
@@ -8430,6 +8679,7 @@
       "advancements.adv_gm.title": "LogicAdv",
       "itemGroup.tabitem_tab": "Max\u0027s Mixtapes Items",
       "advancements.adv_tottify.title": "AdvTOTTIFY",
+      "key.maxs_mixtapes.info_hudkb": "Info HUD",
       "advancements.adv_st_g.title": "LogicAdv",
       "item.maxs_mixtapes.cassette_djmm": "D.J. Music Man",
       "subtitles.virtual_insanity": "Virtual Insanity",
@@ -8470,7 +8720,6 @@
       "item.maxs_mixtapes.cassette_monster.desc": "Starset - Monster",
       "item.maxs_mixtapes.cassette_allen": "Bottom Of The Pit",
       "subtitles.roxanne": "Roxanne",
-      "item.maxs_mixtapes.rats": "Rats",
       "subtitles.box15_stereo": "Box 15",
       "item.maxs_mixtapes.cassette_mov.desc": "C418 - Mice on Venus",
       "subtitles.rasputin_stereo": "Rasputin",
@@ -8578,7 +8827,11 @@
         "name": "GUI",
         "children": [
           {
-            "name": "VarViewerProcs",
+            "name": "VarViewer",
+            "children": []
+          },
+          {
+            "name": "InfoHUD",
             "children": []
           }
         ]

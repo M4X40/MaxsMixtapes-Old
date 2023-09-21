@@ -13,6 +13,7 @@ import net.minecraft.core.BlockPos;
 
 import m4x4.mixtapes.world.inventory.VarViewerGUIMenu;
 import m4x4.mixtapes.procedures.SetButtonProcedure;
+import m4x4.mixtapes.procedures.ReloadButtonProcedure;
 import m4x4.mixtapes.MaxsMixtapesMod;
 
 import java.util.function.Supplier;
@@ -65,6 +66,10 @@ public class VarViewerGUIButtonMessage {
 		if (buttonID == 0) {
 
 			SetButtonProcedure.execute(entity, guistate);
+		}
+		if (buttonID == 1) {
+
+			ReloadButtonProcedure.execute(world, entity, guistate);
 		}
 	}
 

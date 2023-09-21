@@ -166,7 +166,7 @@ public class BlockmanProcMainSlotChangeProcedure {
 			length = 2580;
 		} else if (cassette.getItem() == MaxsMixtapesModItems.CASSETTE_BTD_5.get()) {
 			name = "btd5_stereo";
-			length = 5020;
+			length = 2340;
 		} else if (cassette.getItem() == MaxsMixtapesModItems.CASSETTE_GRAVITY.get()) {
 			name = "gravity_stereo";
 			length = 6220;
@@ -409,6 +409,8 @@ public class BlockmanProcMainSlotChangeProcedure {
 				if (entity instanceof Player _player && !_player.level.isClientSide())
 					_player.displayClientMessage(Component.literal(((entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).orElse(new MaxsMixtapesModVariables.PlayerVariables())).BlockmanError)), false);
 			}
+			name = "none";
+			length = 10;
 		}
 		{
 			String _setval = name;
@@ -418,7 +420,7 @@ public class BlockmanProcMainSlotChangeProcedure {
 			});
 		}
 		{
-			double _setval = length;
+			double _setval = length + 2;
 			entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
 				capability.BlockmanCurrentSongLength = _setval;
 				capability.syncPlayerVariables(entity);

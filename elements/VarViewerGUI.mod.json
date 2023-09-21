@@ -207,29 +207,17 @@
         }
       },
       {
-        "type": "label",
+        "type": "button",
         "data": {
-          "name": "label_stoppedcount_old",
-          "text": {
-            "fixedValue": "StoppedCount Old"
+          "name": "button_reload",
+          "text": "Reload",
+          "onClick": {
+            "name": "ReloadButton"
           },
-          "color": {
-            "value": -12829636,
-            "falpha": 0.0
-          },
-          "x": 6,
-          "y": 197
-        }
-      },
-      {
-        "type": "textfield",
-        "data": {
-          "placeholder": "0",
-          "name": "SCOTB",
-          "width": 315,
+          "width": 45,
           "height": 20,
-          "x": 96,
-          "y": 197
+          "x": 6,
+          "y": 215
         }
       }
     ],

@@ -31,8 +31,8 @@ public class VarViewerGUIScreen extends AbstractContainerScreen<VarViewerGUIMenu
 	EditBox CheckSlotTB;
 	EditBox SOOTB;
 	EditBox StopCountTB;
-	EditBox SCOTB;
 	Button button_empty2;
+	Button button_reload;
 
 	public VarViewerGUIScreen(VarViewerGUIMenu container, Inventory inventory, Component text) {
 		super(container, inventory, text);
@@ -58,7 +58,6 @@ public class VarViewerGUIScreen extends AbstractContainerScreen<VarViewerGUIMenu
 		CheckSlotTB.render(ms, mouseX, mouseY, partialTicks);
 		SOOTB.render(ms, mouseX, mouseY, partialTicks);
 		StopCountTB.render(ms, mouseX, mouseY, partialTicks);
-		SCOTB.render(ms, mouseX, mouseY, partialTicks);
 		this.renderTooltip(ms, mouseX, mouseY);
 	}
 
@@ -92,8 +91,6 @@ public class VarViewerGUIScreen extends AbstractContainerScreen<VarViewerGUIMenu
 			return SOOTB.keyPressed(key, b, c);
 		if (StopCountTB.isFocused())
 			return StopCountTB.keyPressed(key, b, c);
-		if (SCOTB.isFocused())
-			return SCOTB.keyPressed(key, b, c);
 		return super.keyPressed(key, b, c);
 	}
 
@@ -107,7 +104,6 @@ public class VarViewerGUIScreen extends AbstractContainerScreen<VarViewerGUIMenu
 		CheckSlotTB.tick();
 		SOOTB.tick();
 		StopCountTB.tick();
-		SCOTB.tick();
 	}
 
 	@Override
@@ -119,7 +115,6 @@ public class VarViewerGUIScreen extends AbstractContainerScreen<VarViewerGUIMenu
 		this.font.draw(poseStack, Component.translatable("gui.maxs_mixtapes.var_viewer_gui.label_check_slot"), 4, 115, -12829636);
 		this.font.draw(poseStack, Component.translatable("gui.maxs_mixtapes.var_viewer_gui.label_swap_on_open"), 4, 142, -12829636);
 		this.font.draw(poseStack, Component.translatable("gui.maxs_mixtapes.var_viewer_gui.label_stoppedcount"), 4, 169, -12829636);
-		this.font.draw(poseStack, Component.translatable("gui.maxs_mixtapes.var_viewer_gui.label_stoppedcount_old"), 4, 196, -12829636);
 	}
 
 	@Override
@@ -314,32 +309,6 @@ public class VarViewerGUIScreen extends AbstractContainerScreen<VarViewerGUIMenu
 		StopCountTB.setMaxLength(32767);
 		guistate.put("text:StopCountTB", StopCountTB);
 		this.addWidget(this.StopCountTB);
-		SCOTB = new EditBox(this.font, this.leftPos + 94, this.topPos + 196, 315, 20, Component.translatable("gui.maxs_mixtapes.var_viewer_gui.SCOTB")) {
-			{
-				setSuggestion(Component.translatable("gui.maxs_mixtapes.var_viewer_gui.SCOTB").getString());
-			}
-
-			@Override
-			public void insertText(String text) {
-				super.insertText(text);
-				if (getValue().isEmpty())
-					setSuggestion(Component.translatable("gui.maxs_mixtapes.var_viewer_gui.SCOTB").getString());
-				else
-					setSuggestion(null);
-			}
-
-			@Override
-			public void moveCursorTo(int pos) {
-				super.moveCursorTo(pos);
-				if (getValue().isEmpty())
-					setSuggestion(Component.translatable("gui.maxs_mixtapes.var_viewer_gui.SCOTB").getString());
-				else
-					setSuggestion(null);
-			}
-		};
-		SCOTB.setMaxLength(32767);
-		guistate.put("text:SCOTB", SCOTB);
-		this.addWidget(this.SCOTB);
 		button_empty2 = new Button(this.leftPos + 391, this.topPos + 214, 27, 20, Component.translatable("gui.maxs_mixtapes.var_viewer_gui.button_empty2"), e -> {
 			if (true) {
 				MaxsMixtapesMod.PACKET_HANDLER.sendToServer(new VarViewerGUIButtonMessage(0, x, y, z));
@@ -348,5 +317,13 @@ public class VarViewerGUIScreen extends AbstractContainerScreen<VarViewerGUIMenu
 		});
 		guistate.put("button:button_empty2", button_empty2);
 		this.addRenderableWidget(button_empty2);
+		button_reload = new Button(this.leftPos + 4, this.topPos + 214, 45, 20, Component.translatable("gui.maxs_mixtapes.var_viewer_gui.button_reload"), e -> {
+			if (true) {
+				MaxsMixtapesMod.PACKET_HANDLER.sendToServer(new VarViewerGUIButtonMessage(1, x, y, z));
+				VarViewerGUIButtonMessage.handleButtonAction(entity, 1, x, y, z);
+			}
+		});
+		guistate.put("button:button_reload", button_reload);
+		this.addRenderableWidget(button_reload);
 	}
 }

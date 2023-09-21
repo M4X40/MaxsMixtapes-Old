@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "maxs_mixtapes:rats",
+          "name": "maxs_mixtapes:normal_pills",
           "weight": 1,
           "functions": [
             {

@@ -53,5 +53,12 @@ public class BlockmanProcStopProcedure {
 				capability.syncPlayerVariables(entity);
 			});
 		}
+		{
+			String _setval = " Not Playing";
+			entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
+				capability.BlockmanError = _setval;
+				capability.syncPlayerVariables(entity);
+			});
+		}
 	}
 }

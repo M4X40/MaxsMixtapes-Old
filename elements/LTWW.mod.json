@@ -14,7 +14,7 @@
           {
             "type": "item",
             "item": {
-              "value": "CUSTOM:Rats"
+              "value": "CUSTOM:NormalPills"
             },
             "weight": 1,
             "minCount": 1,

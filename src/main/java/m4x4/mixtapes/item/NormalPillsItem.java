@@ -12,14 +12,14 @@ import m4x4.mixtapes.init.MaxsMixtapesModTabs;
 
 import java.util.List;
 
-public class RatsItem extends Item {
-	public RatsItem() {
-		super(new Item.Properties().tab(MaxsMixtapesModTabs.TAB_ITEM_TAB).stacksTo(1).rarity(Rarity.COMMON));
+public class NormalPillsItem extends Item {
+	public NormalPillsItem() {
+		super(new Item.Properties().tab(MaxsMixtapesModTabs.TAB_ITEM_TAB).stacksTo(64).rarity(Rarity.COMMON));
 	}
 
 	@Override
 	public void appendHoverText(ItemStack itemstack, Level world, List<Component> list, TooltipFlag flag) {
 		super.appendHoverText(itemstack, world, list, flag);
-		list.add(Component.literal("Crazy?"));
+		list.add(Component.literal("\"You've become immune to my toxic fumes, my dose dependent presence.\""));
 	}
 }

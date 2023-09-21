@@ -5,9 +5,11 @@ import net.minecraft.world.entity.Entity;
 
 import m4x4.mixtapes.network.MaxsMixtapesModVariables;
 
+import java.util.HashMap;
+
 public class BlockmanProcQueueSystemProcedure {
-	public static void execute(LevelAccessor world, double x, double y, double z, Entity entity) {
-		if (entity == null)
+	public static void execute(LevelAccessor world, double x, double y, double z, Entity entity, HashMap guistate) {
+		if (entity == null || guistate == null)
 			return;
 		boolean CanContinue = false;
 		CanContinue = true;
@@ -213,7 +215,7 @@ public class BlockmanProcQueueSystemProcedure {
 					capability.syncPlayerVariables(entity);
 				});
 			}
-			BlockmanProcPlayProcedure.execute(world, x, y, z, entity);
+			BlockmanProcPlayProcedure.execute(world, x, y, z, entity, guistate);
 		}
 		{
 			boolean _setval = false;
