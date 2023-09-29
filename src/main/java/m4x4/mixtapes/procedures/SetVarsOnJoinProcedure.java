@@ -75,7 +75,7 @@ public class SetVarsOnJoinProcedure {
 			});
 		}
 		{
-			String _setval = " Not Playing";
+			String _setval = "0:00 ";
 			entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
 				capability.BlockmanRemainingTime = _setval;
 				capability.syncPlayerVariables(entity);

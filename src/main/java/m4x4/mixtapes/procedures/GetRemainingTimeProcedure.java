@@ -1,7 +1,5 @@
 package m4x4.mixtapes.procedures;
 
-import org.checkerframework.checker.units.qual.s;
-
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.eventbus.api.Event;
@@ -34,6 +32,7 @@ public class GetRemainingTimeProcedure {
 		double minutes = 0;
 		double seconds = 0;
 		double lengthsecs = 0;
+		String formattedsecs = "";
 		if ((entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).orElse(new MaxsMixtapesModVariables.PlayerVariables())).BlockmanIsPlaying) {
 			if ((entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).orElse(new MaxsMixtapesModVariables.PlayerVariables())).BlockmanRemainingTicks > 0) {/*Remove a sec*/
 				{
@@ -54,15 +53,15 @@ public class GetRemainingTimeProcedure {
 				minutes = quotient;/*Seconds*/
 				seconds = lengthsecs % 60;
 				{
-					String _setval = (int) Math.round(minutes) + ":" + (int) Math.round(new Object() {
-						double convert(String s) {
-							try {
-								return Double.parseDouble(s.trim());
-							} catch (Exception e) {
-							}
-							return 0;
-						}
-					}.convert(new java.text.DecimalFormat("##").format(seconds)));
+					double _setval = seconds;
+					entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
+						capability.TimeSentTemp = _setval;
+						capability.syncPlayerVariables(entity);
+					});
+				}
+				formattedsecs = FormatTimeProcProcedure.execute(entity);
+				{
+					String _setval = (int) Math.round(minutes) + ":" + formattedsecs;
 					entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
 						capability.BlockmanRemainingTime = _setval;
 						capability.syncPlayerVariables(entity);
@@ -73,7 +72,7 @@ public class GetRemainingTimeProcedure {
 				});
 			} else {
 				{
-					String _setval = "Not Playing";
+					String _setval = "0:00";
 					entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
 						capability.BlockmanRemainingTime = _setval;
 						capability.syncPlayerVariables(entity);
@@ -85,7 +84,7 @@ public class GetRemainingTimeProcedure {
 			}
 		} else {
 			{
-				String _setval = " Not Playing";
+				String _setval = "0:00 ";
 				entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
 					capability.BlockmanRemainingTime = _setval;
 					capability.syncPlayerVariables(entity);

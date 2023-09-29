@@ -47,12 +47,12 @@ public class InfoHUDOverlay {
 		RenderSystem.blendFuncSeparate(GlStateManager.SourceFactor.SRC_ALPHA, GlStateManager.DestFactor.ONE_MINUS_SRC_ALPHA, GlStateManager.SourceFactor.ONE, GlStateManager.DestFactor.ZERO);
 		RenderSystem.setShaderColor(1, 1, 1, 1);
 		if (InfoHUDDisplayLogicProcedure.execute(entity)) {
-			RenderSystem.setShaderTexture(0, new ResourceLocation("maxs_mixtapes:textures/screens/info_hudbg.png"));
-			Minecraft.getInstance().gui.blit(event.getPoseStack(), posX + -216, posY + 95, 0, 0, 125, 25, 125, 25);
+			RenderSystem.setShaderTexture(0, new ResourceLocation("maxs_mixtapes:textures/screens/info_hud_back_g.png"));
+			Minecraft.getInstance().gui.blit(event.getPoseStack(), posX + -351, posY + 122, 0, 0, 82, 25, 82, 25);
 
 			Minecraft.getInstance().font.draw(event.getPoseStack(),
 
-					InfoHUDTextProcProcedure.execute(world, entity), posX + -198, posY + 104, -1);
+					InfoHUDTextProcProcedure.execute(world, entity), posX + -342, posY + 131, -1);
 		}
 		RenderSystem.depthMask(true);
 		RenderSystem.defaultBlendFunc();

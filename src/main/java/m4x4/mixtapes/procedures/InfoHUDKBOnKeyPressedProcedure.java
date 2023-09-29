@@ -12,7 +12,7 @@ public class InfoHUDKBOnKeyPressedProcedure {
 			{
 				boolean _setval = false;
 				entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
-					capability.BlockmanIsLooped = _setval;
+					capability.InfoHUDEnabled = _setval;
 					capability.syncPlayerVariables(entity);
 				});
 			}
@@ -20,7 +20,7 @@ public class InfoHUDKBOnKeyPressedProcedure {
 			{
 				boolean _setval = true;
 				entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
-					capability.BlockmanIsLooped = _setval;
+					capability.InfoHUDEnabled = _setval;
 					capability.syncPlayerVariables(entity);
 				});
 			}

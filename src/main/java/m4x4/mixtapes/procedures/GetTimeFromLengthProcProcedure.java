@@ -26,6 +26,13 @@ public class GetTimeFromLengthProcProcedure {
 		}
 		minutes = quotient;/*Seconds*/
 		seconds = lengthsecs % 60;
+		{
+			double _setval = seconds;
+			entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
+				capability.TimeSentTemp = _setval;
+				capability.syncPlayerVariables(entity);
+			});
+		}
 		return (int) Math.round(new Object() {
 			double convert(String s) {
 				try {
@@ -34,14 +41,6 @@ public class GetTimeFromLengthProcProcedure {
 				}
 				return 0;
 			}
-		}.convert(new java.text.DecimalFormat("##.##").format(minutes))) + ":" + (int) Math.round(new Object() {
-			double convert(String s) {
-				try {
-					return Double.parseDouble(s.trim());
-				} catch (Exception e) {
-				}
-				return 0;
-			}
-		}.convert(new java.text.DecimalFormat("##.##").format(seconds)));
+		}.convert(new java.text.DecimalFormat("##.##").format(minutes))) + ":" + FormatTimeProcProcedure.execute(entity);
 	}
 }

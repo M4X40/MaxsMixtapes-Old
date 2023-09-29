@@ -91,6 +91,7 @@ public class MaxsMixtapesModVariables {
 			clone.BlockmanLengthSlot60 = original.BlockmanLengthSlot60;
 			clone.BlockmanMSCReturn = original.BlockmanMSCReturn;
 			clone.InfoHUDEnabled = original.InfoHUDEnabled;
+			clone.TimeSentTemp = original.TimeSentTemp;
 			if (!event.isWasDeath()) {
 				clone.BlockmanError = original.BlockmanError;
 				clone.BlockmanIsLooped = original.BlockmanIsLooped;
@@ -183,9 +184,10 @@ public class MaxsMixtapesModVariables {
 		public boolean SwapSlotsOnOpen = false;
 		public double LastSwappedSlot = 51.0;
 		public double BlockmanCurrentTick = 0;
-		public String BlockmanRemainingTime = "\" Not Playing\"";
+		public String BlockmanRemainingTime = "\"0:00 \"";
 		public double BlockmanRemainingTicks = 0;
 		public boolean InfoHUDEnabled = false;
+		public double TimeSentTemp = 0;
 
 		public void syncPlayerVariables(Entity entity) {
 			if (entity instanceof ServerPlayer serverPlayer)
@@ -236,6 +238,7 @@ public class MaxsMixtapesModVariables {
 			nbt.putString("BlockmanRemainingTime", BlockmanRemainingTime);
 			nbt.putDouble("BlockmanRemainingTicks", BlockmanRemainingTicks);
 			nbt.putBoolean("InfoHUDEnabled", InfoHUDEnabled);
+			nbt.putDouble("TimeSentTemp", TimeSentTemp);
 			return nbt;
 		}
 
@@ -283,6 +286,7 @@ public class MaxsMixtapesModVariables {
 			BlockmanRemainingTime = nbt.getString("BlockmanRemainingTime");
 			BlockmanRemainingTicks = nbt.getDouble("BlockmanRemainingTicks");
 			InfoHUDEnabled = nbt.getBoolean("InfoHUDEnabled");
+			TimeSentTemp = nbt.getDouble("TimeSentTemp");
 		}
 	}
 
@@ -349,6 +353,7 @@ public class MaxsMixtapesModVariables {
 					variables.BlockmanRemainingTime = message.data.BlockmanRemainingTime;
 					variables.BlockmanRemainingTicks = message.data.BlockmanRemainingTicks;
 					variables.InfoHUDEnabled = message.data.InfoHUDEnabled;
+					variables.TimeSentTemp = message.data.TimeSentTemp;
 				}
 			});
 			context.setPacketHandled(true);

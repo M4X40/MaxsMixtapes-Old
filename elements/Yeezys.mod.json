@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "insoundmind_album",
+    "texture": "i_have_a_bomb",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
@@ -27,7 +27,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "\"The greatest shoe ever\""
+      "\"Shoe of the year\" - Kanye"
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

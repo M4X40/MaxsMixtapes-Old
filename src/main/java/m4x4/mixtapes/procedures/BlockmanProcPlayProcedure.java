@@ -73,7 +73,7 @@ public class BlockmanProcPlayProcedure {
 					capability.syncPlayerVariables(entity);
 				});
 			}
-			if (((entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).orElse(new MaxsMixtapesModVariables.PlayerVariables())).BlockmanRemainingTime).equals(" Not Playing")) {
+			if (((entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).orElse(new MaxsMixtapesModVariables.PlayerVariables())).BlockmanRemainingTime).equals("0:00 ")) {
 				GetRemainingTimeProcedure.execute(world, entity);
 			}
 			if (world instanceof ServerLevel _level)
@@ -112,18 +112,20 @@ public class BlockmanProcPlayProcedure {
 							});
 						}
 					}
-				} else if ((entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).orElse(new MaxsMixtapesModVariables.PlayerVariables())).BlockmanIsQueued) {
-					BlockmanProcQueueSystemProcedure.execute(world, x, y, z, entity, guistate);
-					if (!(entity instanceof Player _plr ? _plr.containerMenu instanceof BlockmanPlayerMenu : false)) {
-						{
-							boolean _setval = true;
-							entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
-								capability.SwapSlotsOnOpen = _setval;
-								capability.syncPlayerVariables(entity);
-							});
+				} else {
+					if ((entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).orElse(new MaxsMixtapesModVariables.PlayerVariables())).BlockmanIsQueued) {
+						BlockmanProcQueueSystemProcedure.execute(world, x, y, z, entity, guistate);
+						if (!(entity instanceof Player _plr ? _plr.containerMenu instanceof BlockmanPlayerMenu : false)) {
+							{
+								boolean _setval = true;
+								entity.getCapability(MaxsMixtapesModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
+									capability.SwapSlotsOnOpen = _setval;
+									capability.syncPlayerVariables(entity);
+								});
+							}
+						} else {
+							BlockmanQueueSwapperProcedure.execute(entity);
 						}
-					} else {
-						BlockmanQueueSwapperProcedure.execute(entity);
 					}
 				}
 			} else {

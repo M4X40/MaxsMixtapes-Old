@@ -12,7 +12,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraft.client.gui.screens.MenuScreens;
 
 import m4x4.mixtapes.client.gui.VarViewerGUIScreen;
-import m4x4.mixtapes.client.gui.InfoHUDBGScreen;
+import m4x4.mixtapes.client.gui.InfoHudBackGScreen;
 import m4x4.mixtapes.client.gui.BlockmanPlayerScreen;
 
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
@@ -22,7 +22,7 @@ public class MaxsMixtapesModScreens {
 		event.enqueueWork(() -> {
 			MenuScreens.register(MaxsMixtapesModMenus.BLOCKMAN_PLAYER.get(), BlockmanPlayerScreen::new);
 			MenuScreens.register(MaxsMixtapesModMenus.VAR_VIEWER_GUI.get(), VarViewerGUIScreen::new);
-			MenuScreens.register(MaxsMixtapesModMenus.INFO_HUDBG.get(), InfoHUDBGScreen::new);
+			MenuScreens.register(MaxsMixtapesModMenus.INFO_HUD_BACK_G.get(), InfoHudBackGScreen::new);
 		});
 	}
 }
